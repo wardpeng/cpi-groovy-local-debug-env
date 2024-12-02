@@ -1,0 +1,12 @@
+<HolidayAssignment>
+    <HolidayAssignment>
+        <date>2023-01-01T00:00:00.000</date>
+        <HolidayCalendar_externalCode>HK_HC_SH</HolidayCalendar_externalCode>
+        <cust_SH>SH01</cust_SH>
+    </HolidayAssignment>
+    <HolidayAssignment>
+        <date>2023-01-23T00:00:00.000</date>
+        <HolidayCalendar_externalCode>HK_HC_SH</HolidayCalendar_externalCode>
+        <cust_SH>SH02</cust_SH>
+    </HolidayAssignment>
+</HolidayAssignment>

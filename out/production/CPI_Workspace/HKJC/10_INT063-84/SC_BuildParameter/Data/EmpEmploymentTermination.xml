@@ -1,0 +1,12 @@
+<EmpEmploymentTermination>
+    <EmpEmploymentTermination>
+        <endDate>2050-01-01T00:00:00.000</endDate>
+        <personIdExternal>40007049</personIdExternal>
+        <userId>60000322</userId>
+        <jobInfoNav>
+            <EmpJob>
+                <eventReason>ECWK</eventReason>
+            </EmpJob>
+        </jobInfoNav>
+    </EmpEmploymentTermination>
+</EmpEmploymentTermination>

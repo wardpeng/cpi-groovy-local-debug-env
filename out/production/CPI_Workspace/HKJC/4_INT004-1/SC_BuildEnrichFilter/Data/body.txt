@@ -1,0 +1,110 @@
+<EmpEmployment>
+	<EmpEmployment>
+		<userNav>
+			<User>
+				<status>t</status>
+			</User>
+		</userNav>
+		<personNav>
+			<PerPerson>
+				<personalInfoNav>
+					<PerPersonal>
+						<suffixNav>
+							<PicklistOption>
+								<externalCode>11</externalCode>
+							</PicklistOption>
+						</suffixNav>
+						<gender>F</gender>
+						<thirdName>No1</thirdName>
+						<birthName>HK1 GTest</birthName>
+					</PerPersonal>
+				</personalInfoNav>
+				<customString1>10001</customString1>
+				<personIdExternal>10000008</personIdExternal>
+				<phoneNav />
+			</PerPerson>
+		</personNav>
+		<personIdExternal>10000008</personIdExternal>
+		<assignmentClass>ST</assignmentClass>
+		<userId>10000008</userId>
+		<jobInfoNav>
+			<EmpJob>
+				<emplStatusNav>
+					<PicklistOption>
+						<externalCode>T</externalCode>
+						<status>ACTIVE</status>
+					</PicklistOption>
+				</emplStatusNav>
+				<positionEntryDate>2023-12-12T00:00:00.000</positionEntryDate>
+				<positionNav>
+					<Position>
+						<externalName_en_GB>GTest_Position_HK</externalName_en_GB>
+					</Position>
+				</positionNav>
+				<customString7Nav />
+				<jobCodeNav>
+					<FOJobCode>
+						<cust_legacyCode />
+					</FOJobCode>
+				</jobCodeNav>
+				<company>FS</company>
+				<customString14>AE</customString14>
+			</EmpJob>
+		</jobInfoNav>
+		<startDate>2023-12-12T00:00:00.000</startDate>
+	</EmpEmployment>
+	<EmpEmployment>
+		<userNav>
+			<User>
+				<status>t</status>
+			</User>
+		</userNav>
+		<personNav>
+			<PerPerson>
+				<personalInfoNav>
+					<PerPersonal>
+						<suffixNav>
+							<PicklistOption>
+								<externalCode>13</externalCode>
+							</PicklistOption>
+						</suffixNav>
+						<gender>M</gender>
+						<thirdName>Frank</thirdName>
+						<birthName>Gao Qi Ji</birthName>
+					</PerPersonal>
+				</personalInfoNav>
+				<customString1>999841</customString1>
+				<personIdExternal>40000159</personIdExternal>
+				<phoneNav />
+			</PerPerson>
+		</personNav>
+		<personIdExternal>40000159</personIdExternal>
+		<assignmentClass>ST</assignmentClass>
+		<userId>40000159</userId>
+		<jobInfoNav>
+			<EmpJob>
+				<emplStatusNav>
+					<PicklistOption>
+						<externalCode>RNS</externalCode>
+						<status>ACTIVE</status>
+					</PicklistOption>
+				</emplStatusNav>
+				<positionEntryDate>2023-01-01T00:00:00.000</positionEntryDate>
+				<positionNav>
+					<Position>
+						<externalName_en_GB>Racing Lab Office Manager</externalName_en_GB>
+					</Position>
+				</positionNav>
+				<customString7Nav />
+				<jobCodeNav>
+					<FOJobCode>
+						<cust_legacyCode />
+					</FOJobCode>
+				</jobCodeNav>
+				<company>JC</company>
+				<customString14>AE</customString14>
+			</EmpJob>
+		</jobInfoNav>
+		<startDate>2023-01-01T00:00:00.000</startDate>
+	</EmpEmployment>
+</EmpEmployment>

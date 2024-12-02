@@ -1,0 +1,14 @@
+ <records>
+  <record>
+    <id>a</id>
+    <hashCode>-aaaaa</hashCode>
+  </record>
+   <record>
+      <id>1</id>
+      <hashCode>2</hashCode>
+   </record>
+   <record>
+      <id>3</id>
+      <hashCode>3</hashCode>
+   </record>
+ </records>

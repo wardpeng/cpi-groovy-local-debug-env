@@ -1,0 +1,22 @@
+<EmpJob>
+    <EmpJob>
+        <division>1</division>
+        <standardHours>1</standardHours>
+        <userId>1</userId>
+    </EmpJob>
+    <EmpJob>
+        <division>2</division>
+        <standardHours>1.0</standardHours>
+        <userId>4</userId>
+    </EmpJob>
+    <EmpJob>
+        <division>1</division>
+        <standardHours>0</standardHours>
+        <userId>2</userId>
+    </EmpJob>
+    <EmpJob>
+        <division>1</division>
+        <standardHours>0</standardHours>
+        <userId>3</userId>
+    </EmpJob>
+</EmpJob>

@@ -1,0 +1,33 @@
+<batchParts>
+    <batchChangeSet>
+        <batchChangeSetPart>
+            <method>UPSERT</method>
+            <uri>EmpEmployment</uri>
+            <EmpEmployment>
+                <EmpEmployment>
+            </EmpEmployment>
+        </EmpEmployment>
+        </batchChangeSetPart>
+        <batchChangeSetPart>
+            <method>UPSERT</method>
+            <uri>cust_Badge</uri>
+            <cust_Badge>
+                <cust_Badge>
+                    <externalCode>888888</externalCode>
+                    <cust_endDate/>
+                    <cust_status>3</cust_status>
+                </cust_Badge>
+                <cust_Badge>
+                    <externalCode>2</externalCode>
+                    <cust_endDate/>
+                    <cust_status>3</cust_status>
+                </cust_Badge>
+                <cust_Badge>
+                    <externalCode>888888</externalCode>
+                    <cust_endDate/>
+                    <cust_status>3</cust_status>
+                </cust_Badge>
+            </cust_Badge>
+        </batchChangeSetPart>
+    </batchChangeSet>
+</batchParts>

@@ -1,0 +1,56 @@
+<cust_PTEElookup>
+    <cust_PTEElookup>
+        <cust_determinelevel>1</cust_determinelevel>
+        <externalCode>CSII</externalCode>
+        <cust_Division>12000250</cust_Division>
+        <externalName>CSII</externalName>
+        <effectiveStartDate>2022-01-01T00:00:00.000</effectiveStartDate>
+        <cust_Jobcode/>
+        <cust_Department/>
+    </cust_PTEElookup>
+    <cust_PTEElookup>
+        <cust_determinelevel>1</cust_determinelevel>
+        <externalCode>WP</externalCode>
+        <cust_Division>12000110</cust_Division>
+        <externalName>WP</externalName>
+        <effectiveStartDate>2022-01-01T00:00:00.000</effectiveStartDate>
+        <cust_Jobcode/>
+        <cust_Department/>
+    </cust_PTEElookup>
+    <cust_PTEElookup>
+        <cust_determinelevel>1</cust_determinelevel>
+        <externalCode>MBMX</externalCode>
+        <cust_Division>12000200</cust_Division>
+        <externalName>MBMX</externalName>
+        <effectiveStartDate>2022-01-01T00:00:00.000</effectiveStartDate>
+        <cust_Jobcode/>
+        <cust_Department/>
+    </cust_PTEElookup>
+    <cust_PTEElookup>
+        <cust_determinelevel>2</cust_determinelevel>
+        <externalCode>Racing_Broadcasting Operations</externalCode>
+        <cust_Division>12000230</cust_Division>
+        <externalName>Racing_Broadcasting Operations</externalName>
+        <effectiveStartDate>2022-01-01T00:00:00.000</effectiveStartDate>
+        <cust_Jobcode/>
+        <cust_Department>22000117</cust_Department>
+    </cust_PTEElookup>
+    <cust_PTEElookup>
+        <cust_determinelevel>3</cust_determinelevel>
+        <externalCode>Racing_OwnershipM_PCS2</externalCode>
+        <cust_Division>12000230</cust_Division>
+        <externalName>Racing_OwnershipM_PCS2</externalName>
+        <effectiveStartDate>2022-05-01T00:00:00.000</effectiveStartDate>
+        <cust_Jobcode>12200529</cust_Jobcode>
+        <cust_Department>22000114</cust_Department>
+    </cust_PTEElookup>
+    <cust_PTEElookup>
+        <cust_determinelevel>3</cust_determinelevel>
+        <externalCode>Property</externalCode>
+        <cust_Division>12000230</cust_Division>
+        <externalName>Property</externalName>
+        <effectiveStartDate>2022-01-01T00:00:00.000</effectiveStartDate>
+        <cust_Jobcode>12000047</cust_Jobcode>
+        <cust_Department>22000114</cust_Department>
+    </cust_PTEElookup>
+</cust_PTEElookup>

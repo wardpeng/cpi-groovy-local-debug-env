@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?><YY1_CBO_CPI_INT001_LOG>
+  <YY1_CBO_CPI_INT001_LOGType>
+    <ProcessTimestamp>null</ProcessTimestamp>
+    <ProcessId>null</ProcessId>
+    <ProcessSubId>null</ProcessSubId>
+    <accountNo>null</accountNo>
+    <BankSerialNumber>null</BankSerialNumber>
+    <TransactionSerialNumber>null</TransactionSerialNumber>
+    <ProcessResult>Error</ProcessResult>
+    <ProcessMessage>Error in document: BKPFF $ 0M50EL8;House bank account CBS01/CNY01 in company code HK02 doesn't exist</ProcessMessage>
+  </YY1_CBO_CPI_INT001_LOGType>
+</YY1_CBO_CPI_INT001_LOG>

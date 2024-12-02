@@ -1,0 +1,10 @@
+<records>
+  <record>
+    <id>10000008</id>
+    <hashCode>397985171</hashCode>
+  </record>
+  <record>
+    <id>40000161</id>
+    <hashCode>175160021</hashCode>
+  </record>
+</records>

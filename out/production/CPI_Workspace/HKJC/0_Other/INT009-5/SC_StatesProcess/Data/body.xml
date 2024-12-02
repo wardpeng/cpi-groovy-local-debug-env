@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmpEmployments>
+    <EmpEmployment>
+        <personIdExternal>10000008</personIdExternal>
+        <empName>HK1 GTest (No1)</empName>
+        <startDate>12-Dec-2023</startDate>
+        <homePhoneNumber></homePhoneNumber>
+        <workPhoneNumber></workPhoneNumber>
+        <sex>F</sex>
+        <clevel_legacyCodeDvision>RRO 00 00 00</clevel_legacyCodeDvision>
+        <positionTitle>GTest_Position_HK</positionTitle>
+        <position_startdate>12-Dec-2023</position_startdate>
+        <position_enddate>17-NOV-1858</position_enddate>
+        <jobCatagory>AE</jobCatagory>
+        <gradeLevel>12</gradeLevel>
+        <badgeNo>888888</badgeNo>
+        <TerminationDate>17-NOV-1858</TerminationDate>
+        <TransProdate></TransProdate>
+        <TransProTime></TransProTime>
+        <TransProType></TransProType>
+        <userId></userId>
+        <DepartmentId>RRO</DepartmentId>
+        <company>FS</company>
+    </EmpEmployment>
+</EmpEmployments>

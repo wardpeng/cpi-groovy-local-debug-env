@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?><EmpEmploymentTermination>
+  <EmpEmploymentTermination>
+    <endDate>2024-10-01T00:00:00.000</endDate>
+    <personIdExternal>40007049</personIdExternal>
+    <userId>60000322</userId>
+    <customLong12>-1</customLong12>
+    <eventReason>ECWK</eventReason>
+  </EmpEmploymentTermination>
+</EmpEmploymentTermination>

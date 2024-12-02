@@ -1,0 +1,8 @@
+<cust_badgeUnwanted>
+	<cust_badgeUnwanted>
+	    <externalCode>4</externalCode>
+	</cust_badgeUnwanted>
+	<cust_badgeUnwanted>
+	    <externalCode>444</externalCode>
+	</cust_badgeUnwanted>
+</cust_badgeUnwanted>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><records>
+  <record>
+    <id>10000008</id>
+    <hashCode>-1211244063</hashCode>
+  </record>
+  <record>
+    <id>33</id>
+    <hashCode>33</hashCode>
+  </record>
+  <record>
+    <id>22</id>
+    <hashCode>22</hashCode>
+  </record>
+  <record>
+    <id>40000159</id>
+    <hashCode>-429557864</hashCode>
+  </record>
+</records>

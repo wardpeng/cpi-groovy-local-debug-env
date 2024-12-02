@@ -1,0 +1,11 @@
+<cust_Badge>
+	<cust_Badge>
+	    <externalCode>ZWP</externalCode>
+	</cust_Badge>
+	<cust_Badge>
+	    <externalCode>800012</externalCode>
+	</cust_Badge>
+	<cust_Badge>
+	    <externalCode>800013</externalCode>
+	</cust_Badge>
+</cust_Badge>

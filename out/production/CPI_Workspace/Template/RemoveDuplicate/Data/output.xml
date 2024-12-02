@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><FOJobCode>
+  <FOJobCode>
+    <cust_dailyRate>80</cust_dailyRate>
+    <cust_legacyCode>Δ1Δ</cust_legacyCode>
+    <name>Dummy Job Classification</name>
+    <startDate>1900-01-01T00:00:00.000</startDate>
+    <status>A</status>
+  </FOJobCode>
+  <FOJobCode>
+    <cust_dailyRate>12</cust_dailyRate>
+    <cust_legacyCode>ΔΔΔ</cust_legacyCode>
+    <name>Dummy Job Classification ,2</name>
+    <startDate>1900-01-01T00:00:00.000</startDate>
+    <status>A</status>
+  </FOJobCode>
+</FOJobCode>

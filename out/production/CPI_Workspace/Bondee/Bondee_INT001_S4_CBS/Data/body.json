@@ -1,0 +1,25 @@
+{
+    "accountNatureList": [
+        "C"
+    ],
+    "accountNoList": [
+        "15000100973868"
+    ],
+    "bankSerialNumber": "3240792212168200022725",
+    "bankTypeList": [
+        "SDB"
+    ],
+    "currencyList": [
+        "10"
+    ],
+    "currentFlag": "1",
+    "dateType": "0",
+    "detailedSources": "B",
+    "endDate": "2022-12-16",
+    "loanType": "2",
+    "startDate": "2022-12-16",
+    "transactionSerialNumber": 2022121600789909,
+    "unitCodeList": [
+        "0001"
+    ]
+}

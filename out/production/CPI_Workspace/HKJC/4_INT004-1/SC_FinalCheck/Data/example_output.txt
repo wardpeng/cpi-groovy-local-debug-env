@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?><EmpEmployment>
+  <EmpEmployment>
+    <Action>"U"</Action>
+    <EmployeeID>"96002818"</EmployeeID>
+    <BadgeNumber>"96002818"</BadgeNumber>
+    <LastName>"Dong"</LastName>
+    <MiddleNameandFirstName>"Yan Neng "</MiddleNameandFirstName>
+    <PreferredFirstName>"Humble"</PreferredFirstName>
+    <ChineseName>"董晏能"</ChineseName>
+    <HKID>""</HKID>
+    <BirthDate>"06/01/1980"</BirthDate>
+    <RegulatoryRegion>"CHN"</RegulatoryRegion>
+    <HireDate>"01/01/2024"</HireDate>
+    <EmployeeClassification>"FT"</EmployeeClassification>
+    <SalaryAdministrationPlan>"HOD"</SalaryAdministrationPlan>
+    <EmploymentStatus>"A"</EmploymentStatus>
+    <EffectiveDate>"01/01/2024"</EffectiveDate>
+    <JobEndDate>"10/06/2024"</JobEndDate>
+    <CostCentre>"86700000"</CostCentre>
+    <JobCode>"F01982"</JobCode>
+    <DepartmentID>"ZFM"</DepartmentID>
+    <HolidaySchedule>"CHN"</HolidaySchedule>
+    <SalaryGrade>"HOD"</SalaryGrade>
+    <MobilePhoneNumber>"12396002818"</MobilePhoneNumber>
+    <HomePhoneNumber>"76002818"</HomePhoneNumber>
+    <LastUpdateDateTime>"11-六月-2024 06.21.36.000000000"</LastUpdateDateTime>
+    <MAILCOUNTRY>"CHN"</MAILCOUNTRY>
+    <MAILCOUNTRYDESC>"Mainland China"</MAILCOUNTRYDESC>
+    <MAILADDRESS1>"广州市从化区城郊街东风村13社25号"</MAILADDRESS1>
+    <MAILADDRESS2>"conghua"</MAILADDRESS2>
+    <MAILADDRESS3>""</MAILADDRESS3>
+    <MAILADDRESS4>""</MAILADDRESS4>
+    <MAILDISTRICT>"Guangzhou"</MAILDISTRICT>
+    <MAILSTATE>"44"</MAILSTATE>
+    <MAILSTATEDESC>"Guangdong"</MAILSTATEDESC>
+    <POSTAL>"510900"</POSTAL>
+    <HOMEDISTRICT>"Guangzhou"</HOMEDISTRICT>
+    <DEPTDESC>"CRC department SIT"</DEPTDESC>
+    <GENDER>"M"</GENDER>
+    <WORK_SCHEDULE>"SHIFTSCH"</WORK_SCHEDULE>
+    <VAC_Info>""</VAC_Info>
+    <Med_Expiry_Date>""</Med_Expiry_Date>
+    <RegularShift>"F"</RegularShift>
+  </EmpEmployment>
+  <EmpEmployment>
+    <Action>"U"</Action>
+    <EmployeeID>"96002818"</EmployeeID>
+    <BadgeNumber>"96002818"</BadgeNumber>
+    <LastName>"Dong"</LastName>
+    <MiddleNameandFirstName>"Yan Neng "</MiddleNameandFirstName>
+    <PreferredFirstName>"Humble"</PreferredFirstName>
+    <ChineseName>"董晏能"</ChineseName>
+    <HKID>""</HKID>
+    <BirthDate>"06/01/1980"</BirthDate>
+    <RegulatoryRegion>"CHN"</RegulatoryRegion>
+    <HireDate>"01/01/2024"</HireDate>
+    <EmployeeClassification>"FT"</EmployeeClassification>
+    <SalaryAdministrationPlan>"HOD"</SalaryAdministrationPlan>
+    <EmploymentStatus>"A"</EmploymentStatus>
+    <EffectiveDate>"11/06/2024"</EffectiveDate>
+    <JobEndDate>"31/12/9999"</JobEndDate>
+    <CostCentre>"86700000"</CostCentre>
+    <JobCode>"F01982"</JobCode>
+    <DepartmentID>"ZFM"</DepartmentID>
+    <HolidaySchedule>"CHN"</HolidaySchedule>
+    <SalaryGrade>"HOD"</SalaryGrade>
+    <MobilePhoneNumber>"12396002818"</MobilePhoneNumber>
+    <HomePhoneNumber>"76002818"</HomePhoneNumber>
+    <LastUpdateDateTime>"11-六月-2024 06.21.36.000000000"</LastUpdateDateTime>
+    <MAILCOUNTRY>"CHN"</MAILCOUNTRY>
+    <MAILCOUNTRYDESC>"Mainland China"</MAILCOUNTRYDESC>
+    <MAILADDRESS1>"广州市从化区城郊街东风村13社25号"</MAILADDRESS1>
+    <MAILADDRESS2>"conghua"</MAILADDRESS2>
+    <MAILADDRESS3>""</MAILADDRESS3>
+    <MAILADDRESS4>""</MAILADDRESS4>
+    <MAILDISTRICT>"Guangzhou"</MAILDISTRICT>
+    <MAILSTATE>"44"</MAILSTATE>
+    <MAILSTATEDESC>"Guangdong"</MAILSTATEDESC>
+    <POSTAL>"510900"</POSTAL>
+    <HOMEDISTRICT>"Guangzhou"</HOMEDISTRICT>
+    <DEPTDESC>"CRC department SIT"</DEPTDESC>
+    <GENDER>"M"</GENDER>
+    <WORK_SCHEDULE>"SHIFTSCH"</WORK_SCHEDULE>
+    <VAC_Info>""</VAC_Info>
+    <Med_Expiry_Date>""</Med_Expiry_Date>
+    <RegularShift>"F"</RegularShift>
+  </EmpEmployment>
+</EmpEmployment>

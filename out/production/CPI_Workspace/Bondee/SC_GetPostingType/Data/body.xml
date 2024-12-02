@@ -1,0 +1,47 @@
+<list>
+    <list>
+        <PostingType>A003</PostingType>
+        <isSecondItem/>
+        <accountNo>755915712510203</accountNo>
+        <currency>CNY</currency>
+        <bankSerialNumber>C0246XT0000CDHZ</bankSerialNumber>
+        <bankTransactionDate>1723724972000</bankTransactionDate>
+        <purpose>测试</purpose>
+        <digest>测试</digest>
+        <loanType>1</loanType>
+        <incurredAmount>10.00</incurredAmount>
+        <payApplyRemark3>10.6</payApplyRemark3>
+        <payApplyRemark1/>
+        <oppositeName>张磊测试供应商</oppositeName>
+        <BankAccountDescription/>
+        <HouseBankAccount>CNY01</HouseBankAccount>
+        <CompanyCodeName>Socreate (HK) Limited</CompanyCodeName>
+        <GLAccount>1002010000</GLAccount>
+        <HouseBank>CBS01</HouseBank>
+        <BankAccount>755915712510203</BankAccount>
+        <CompanyCode>HK02</CompanyCode>
+        <BankAccountNumber>755915712510203</BankAccountNumber>
+        <ReferenceInfo/>
+        <Name1234>张磊测试供应商</Name1234>
+        <Customer/>
+        <Customer2/>
+        <Customer3/>
+        <Customer4/>
+        <BusinessPartner>1000000030</BusinessPartner>
+        <Supplier>1000000030</Supplier>
+        <Supplier2/>
+        <Supplier3/>
+        <Supplier4/>
+        <AddressID>250</AddressID>
+        <isSupplier/>
+        <AccountAssignment/>
+        <AmountInTransactionCurrency/>
+        <AssignmentReference/>
+        <CostCenter>HK02BM0098</CostCenter>
+        <DebitCreditCode/>
+        <DocumentItemText/>
+        <ReasonCode>050</ReasonCode>
+        <GLAccount_MM>2211030600</GLAccount_MM>
+        <Reference1InDocumentHeader>YPS</Reference1InDocumentHeader>
+    </list>
+</list>

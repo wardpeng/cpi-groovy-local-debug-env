@@ -1,0 +1,288 @@
+<EmpEmployments>
+  <EmpEmployment>
+    <personIdExternal>40001414</personIdExternal>
+    <empName>He Xiang Yi (Titus)                               </empName>
+    <startDate>01-Jan-2023</startDate>
+    <homePhoneNumber/>
+    <workPhoneNumber/>
+    <sex>M</sex>
+    <clevel_legacyCodeDvision>RRO 07  00   00          </clevel_legacyCodeDvision>
+    <positionTitle>Sr Stable Club Membership Off                                                                       </positionTitle>
+    <position_startdate>01-Jan-2023</position_startdate>
+    <position_enddate>17-NOV-1858</position_enddate>
+    <jobCatagory/>
+    <gradeLevel>01   </gradeLevel>
+    <badgeNo>872019</badgeNo>
+    <TerminationDate>17-NOV-1858</TerminationDate>
+    <TransProdate/>
+    <TransProTime/>
+    <TransProType/>
+    <userId/>
+    <DepartmentId>RRO</DepartmentId>
+    <company>JC</company>
+  </EmpEmployment>
+  <EmpEmployment>
+    <personIdExternal>96001730</personIdExternal>
+    <empName>Yu Yuan Jie (Edwin)                               </empName>
+    <startDate>01-Jan-2024</startDate>
+    <homePhoneNumber>76001730            </homePhoneNumber>
+    <workPhoneNumber>96001730            </workPhoneNumber>
+    <sex>M</sex>
+    <clevel_legacyCodeDvision>RRO 07  01   01          </clevel_legacyCodeDvision>
+    <positionTitle>SIT_Racing Lab Office Manager                                                                       </positionTitle>
+    <position_startdate>01-Jan-2024</position_startdate>
+    <position_enddate>17-NOV-1858</position_enddate>
+    <jobCatagory>PJA  </jobCatagory>
+    <gradeLevel>00   </gradeLevel>
+    <badgeNo>909232</badgeNo>
+    <TerminationDate>17-NOV-1858</TerminationDate>
+    <TransProdate/>
+    <TransProTime/>
+    <TransProType/>
+    <userId/>
+    <DepartmentId>RRO</DepartmentId>
+    <company>JC</company>
+  </EmpEmployment>
+  <EmpEmployment>
+    <personIdExternal>96001732</personIdExternal>
+    <empName>Gu Yuan Guang (Edwina)                            </empName>
+    <startDate>01-Jan-2024</startDate>
+    <homePhoneNumber>76001732            </homePhoneNumber>
+    <workPhoneNumber>56001732            </workPhoneNumber>
+    <sex>M</sex>
+    <clevel_legacyCodeDvision>RRO 07  01   01          </clevel_legacyCodeDvision>
+    <positionTitle/>
+    <position_startdate>01-Jan-2024</position_startdate>
+    <position_enddate>17-NOV-1858</position_enddate>
+    <jobCatagory>STA  </jobCatagory>
+    <gradeLevel>07   </gradeLevel>
+    <badgeNo>909230</badgeNo>
+    <TerminationDate>17-NOV-1858</TerminationDate>
+    <TransProdate/>
+    <TransProTime/>
+    <TransProType/>
+    <userId/>
+    <DepartmentId>RRO</DepartmentId>
+    <company>JC</company>
+  </EmpEmployment>
+  <EmpEmployment>
+    <personIdExternal>96002850</personIdExternal>
+    <empName>Guo Sheng Jin (Imogen)                            </empName>
+    <startDate>01-Jan-2024</startDate>
+    <homePhoneNumber>76002850            </homePhoneNumber>
+    <workPhoneNumber>96002850            </workPhoneNumber>
+    <sex>M</sex>
+    <clevel_legacyCodeDvision>ZST 03  00   00          </clevel_legacyCodeDvision>
+    <positionTitle>SIT_Racing Lab Office Manager                                                                       </positionTitle>
+    <position_startdate>01-Jan-2024</position_startdate>
+    <position_enddate>17-NOV-1858</position_enddate>
+    <jobCatagory>STB  </jobCatagory>
+    <gradeLevel>02   </gradeLevel>
+    <badgeNo>908112</badgeNo>
+    <TerminationDate>17-NOV-1858</TerminationDate>
+    <TransProdate/>
+    <TransProTime/>
+    <TransProType/>
+    <userId/>
+    <DepartmentId>RRO</DepartmentId>
+    <company>GH</company>
+  </EmpEmployment>
+  <EmpEmployment>
+    <personIdExternal>96002852</personIdExternal>
+    <empName>Nong Sheng Li (Imogen)                            </empName>
+    <startDate>01-Jan-2024</startDate>
+    <homePhoneNumber>76002852            </homePhoneNumber>
+    <workPhoneNumber>56002852            </workPhoneNumber>
+    <sex>M</sex>
+    <clevel_legacyCodeDvision>ZST 03  00   00          </clevel_legacyCodeDvision>
+    <positionTitle>SIT_Racing Lab Office Manager                                                                       </positionTitle>
+    <position_startdate>01-Jan-2024</position_startdate>
+    <position_enddate>17-NOV-1858</position_enddate>
+    <jobCatagory>STB  </jobCatagory>
+    <gradeLevel>02   </gradeLevel>
+    <badgeNo>908110</badgeNo>
+    <TerminationDate>17-NOV-1858</TerminationDate>
+    <TransProdate/>
+    <TransProTime/>
+    <TransProType/>
+    <userId/>
+    <DepartmentId>RRO</DepartmentId>
+    <company>GH</company>
+  </EmpEmployment>
+  <EmpEmployment>
+    <personIdExternal>96002853</personIdExternal>
+    <empName>He Sheng Lu (Imogen)                              </empName>
+    <startDate>01-Jan-2024</startDate>
+    <homePhoneNumber>76002853            </homePhoneNumber>
+    <workPhoneNumber>56002853            </workPhoneNumber>
+    <sex>M</sex>
+    <clevel_legacyCodeDvision>ZST 03  00   00          </clevel_legacyCodeDvision>
+    <positionTitle>SIT_Racing Lab Office Manager                                                                       </positionTitle>
+    <position_startdate>01-Jan-2024</position_startdate>
+    <position_enddate>17-NOV-1858</position_enddate>
+    <jobCatagory>STB  </jobCatagory>
+    <gradeLevel>02   </gradeLevel>
+    <badgeNo>908109</badgeNo>
+    <TerminationDate>17-NOV-1858</TerminationDate>
+    <TransProdate/>
+    <TransProTime/>
+    <TransProType/>
+    <userId/>
+    <DepartmentId>RRO</DepartmentId>
+    <company>GH</company>
+  </EmpEmployment>
+  <EmpEmployment>
+    <personIdExternal>96002854</personIdExternal>
+    <empName>Lang Chen (Imogene)                               </empName>
+    <startDate>01-Jan-2024</startDate>
+    <homePhoneNumber>76002854            </homePhoneNumber>
+    <workPhoneNumber>56002854            </workPhoneNumber>
+    <sex>M</sex>
+    <clevel_legacyCodeDvision>ZST 03  00   00          </clevel_legacyCodeDvision>
+    <positionTitle>SIT_Racing Lab Office Manager                                                                       </positionTitle>
+    <position_startdate>01-Jan-2024</position_startdate>
+    <position_enddate>17-NOV-1858</position_enddate>
+    <jobCatagory>STB  </jobCatagory>
+    <gradeLevel>01   </gradeLevel>
+    <badgeNo>908108</badgeNo>
+    <TerminationDate>17-NOV-1858</TerminationDate>
+    <TransProdate/>
+    <TransProTime/>
+    <TransProType/>
+    <userId/>
+    <DepartmentId>RRO</DepartmentId>
+    <company>GH</company>
+  </EmpEmployment>
+  <EmpEmployment>
+    <personIdExternal>96002856</personIdExternal>
+    <empName>Di Chen Jing (Imogene)                            </empName>
+    <startDate>01-Jan-2024</startDate>
+    <homePhoneNumber>76002856            </homePhoneNumber>
+    <workPhoneNumber>56002856            </workPhoneNumber>
+    <sex>M</sex>
+    <clevel_legacyCodeDvision>ZST 03  00   00          </clevel_legacyCodeDvision>
+    <positionTitle>SIT_Racing Lab Office Manager                                                                       </positionTitle>
+    <position_startdate>01-Jan-2024</position_startdate>
+    <position_enddate>17-NOV-1858</position_enddate>
+    <jobCatagory>TST  </jobCatagory>
+    <gradeLevel>00   </gradeLevel>
+    <badgeNo>908106</badgeNo>
+    <TerminationDate>17-NOV-1858</TerminationDate>
+    <TransProdate/>
+    <TransProTime/>
+    <TransProType/>
+    <userId/>
+    <DepartmentId>RRO</DepartmentId>
+    <company>GH</company>
+  </EmpEmployment>
+  <EmpEmployment>
+    <personIdExternal>96002857</personIdExternal>
+    <empName>Han Chen Ling (Imogene)                           </empName>
+    <startDate>01-Jan-2024</startDate>
+    <homePhoneNumber>76002857            </homePhoneNumber>
+    <workPhoneNumber>56002857            </workPhoneNumber>
+    <sex>M</sex>
+    <clevel_legacyCodeDvision>ZST 03  00   00          </clevel_legacyCodeDvision>
+    <positionTitle>SIT_Racing Lab Office Manager                                                                       </positionTitle>
+    <position_startdate>01-Jan-2024</position_startdate>
+    <position_enddate>17-NOV-1858</position_enddate>
+    <jobCatagory>TST  </jobCatagory>
+    <gradeLevel>00   </gradeLevel>
+    <badgeNo>908105</badgeNo>
+    <TerminationDate>17-NOV-1858</TerminationDate>
+    <TransProdate/>
+    <TransProTime/>
+    <TransProType/>
+    <userId/>
+    <DepartmentId>RRO</DepartmentId>
+    <company>GH</company>
+  </EmpEmployment>
+  <EmpEmployment>
+    <personIdExternal>96002858</personIdExternal>
+    <empName>Fu Pu Qi (Imogene)                                </empName>
+    <startDate>01-Jan-2024</startDate>
+    <homePhoneNumber>76002858            </homePhoneNumber>
+    <workPhoneNumber>56002858            </workPhoneNumber>
+    <sex>M</sex>
+    <clevel_legacyCodeDvision>ZST 03  00   00          </clevel_legacyCodeDvision>
+    <positionTitle>SIT_Racing Lab Office Manager                                                                       </positionTitle>
+    <position_startdate>01-Jan-2024</position_startdate>
+    <position_enddate>17-NOV-1858</position_enddate>
+    <jobCatagory>TST  </jobCatagory>
+    <gradeLevel>00   </gradeLevel>
+    <badgeNo>908104</badgeNo>
+    <TerminationDate>17-NOV-1858</TerminationDate>
+    <TransProdate/>
+    <TransProTime/>
+    <TransProType/>
+    <userId/>
+    <DepartmentId>RRO</DepartmentId>
+    <company>GH</company>
+  </EmpEmployment>
+  <EmpEmployment>
+    <personIdExternal>96002859</personIdExternal>
+    <empName>Long Pu Yi (Industrious)                          </empName>
+    <startDate>01-Jan-2024</startDate>
+    <homePhoneNumber>76002859            </homePhoneNumber>
+    <workPhoneNumber>56002859            </workPhoneNumber>
+    <sex>M</sex>
+    <clevel_legacyCodeDvision>ZST 03  00   00          </clevel_legacyCodeDvision>
+    <positionTitle>SIT_Racing Lab Office Manager                                                                       </positionTitle>
+    <position_startdate>01-Jan-2024</position_startdate>
+    <position_enddate>17-NOV-1858</position_enddate>
+    <jobCatagory>TST  </jobCatagory>
+    <gradeLevel>00   </gradeLevel>
+    <badgeNo>908103</badgeNo>
+    <TerminationDate>17-NOV-1858</TerminationDate>
+    <TransProdate/>
+    <TransProTime/>
+    <TransProType/>
+    <userId/>
+    <DepartmentId>RRO</DepartmentId>
+    <company>GH</company>
+  </EmpEmployment>
+  <EmpEmployment>
+    <personIdExternal>96002860</personIdExternal>
+    <empName>Ding Pu Cheng (Industrious)                       </empName>
+    <startDate>01-Jan-2024</startDate>
+    <homePhoneNumber>76002860            </homePhoneNumber>
+    <workPhoneNumber>56002860            </workPhoneNumber>
+    <sex>M</sex>
+    <clevel_legacyCodeDvision>ZST 03  00   00          </clevel_legacyCodeDvision>
+    <positionTitle>SIT_Racing Lab Office Manager                                                                       </positionTitle>
+    <position_startdate>01-Jan-2024</position_startdate>
+    <position_enddate>17-NOV-1858</position_enddate>
+    <jobCatagory>TST  </jobCatagory>
+    <gradeLevel>00   </gradeLevel>
+    <badgeNo>908102</badgeNo>
+    <TerminationDate>17-NOV-1858</TerminationDate>
+    <TransProdate/>
+    <TransProTime/>
+    <TransProType/>
+    <userId/>
+    <DepartmentId>RRO</DepartmentId>
+    <company>GH</company>
+  </EmpEmployment>
+  <EmpEmployment>
+    <personIdExternal>96002851</personIdExternal>
+    <empName>Fang Sheng Qin (Imogen)                           </empName>
+    <startDate>01-Jan-2024</startDate>
+    <homePhoneNumber>76002851            </homePhoneNumber>
+    <workPhoneNumber>56002851            </workPhoneNumber>
+    <sex>M</sex>
+    <clevel_legacyCodeDvision>ZST 03  00   00          </clevel_legacyCodeDvision>
+    <positionTitle>SIT_Racing Lab Office Manager                                                                       </positionTitle>
+    <position_startdate>01-Jan-2024</position_startdate>
+    <position_enddate>17-NOV-1858</position_enddate>
+    <jobCatagory>STB  </jobCatagory>
+    <gradeLevel>02   </gradeLevel>
+    <badgeNo>908111</badgeNo>
+    <TerminationDate>17-NOV-1858</TerminationDate>
+    <TransProdate/>
+    <TransProTime/>
+    <TransProType/>
+    <userId/>
+    <DepartmentId>RRO</DepartmentId>
+    <company>GH</company>
+  </EmpEmployment>
+</EmpEmployments>

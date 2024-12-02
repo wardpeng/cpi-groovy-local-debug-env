@@ -1,0 +1,161 @@
+<EmpEmployment>
+    <EmpEmployment>
+        <userId>U1</userId>
+        <personIdExternal>P1</personIdExternal>
+        <empJobStatus>INACTIVE</empJobStatus>
+        <assignmentClass>ST</assignmentClass>
+        <customString1/>
+        <lastName>Au-Yeung</lastName>
+        <middleName/>
+        <firstName>INT</firstName>
+        <thirdName>INT-D</thirdName>
+        <firstNameAlt1/>
+        <lastNameAlt1/>
+        <cust_legacyCodeString6>MCA0101</cust_legacyCodeString6>
+        <dateOfBirth>2024-02-28T00:00:00.000</dateOfBirth>
+        <cardType/>
+        <nationalId/>
+        <company>JC</company>
+        <startDate>2024-03-22T00:00:00.000</startDate>
+        <employeeClass>1030</employeeClass>
+        <employeeClassExternalCode>1</employeeClassExternalCode>
+        <customString14>STA</customString14>
+        <status>ACTIVE</status>
+        <seqNumbermpJob>1</seqNumbermpJob>
+        <startDateEmpJob>2024-03-22T00:00:00.000</startDateEmpJob>
+        <endDateEmpJob>2012-12-31T00:00:00.000</endDateEmpJob>
+        <cust_legacyCodeCostCenterNav>10012901</cust_legacyCodeCostCenterNav>
+        <jobCode>12000045</jobCode>
+        <cust_legacyCodeDepartmentNav>MCA</cust_legacyCodeDepartmentNav>
+        <holidayCalendarCode>HK_HC_NH</holidayCalendarCode>
+        <payGrade>ST08</payGrade>
+        <customString13>13</customString13>
+        <privatePhoneNumber/>
+        <homePhoneNumber/>
+        <code>HKG</code>
+        <externalName_en_GB>Hong Kong</externalName_en_GB>
+        <address1>Residential Address1</address1>
+        <address2>Residential Address2</address2>
+        <city>Kwun Tong</city>
+        <externalCodeStateNav>KLN</externalCodeStateNav>
+        <state>Kowloon</state>
+        <zipCode/>
+        <nameFODepartment>Mem Ops and Services</nameFODepartment>
+        <gender>M</gender>
+        <workscheduleCode>HK7D44</workscheduleCode>
+        <customString17/>
+        <secondaryExternalCode/>
+        <empJobStatusExternalCode>A</empJobStatusExternalCode>
+        <activeUserIdPerPersonIdExternal/>
+        <inActiveUserIdPerPersonIdExternal/>
+        <userIdEmpEmploymentTermination/>
+        <userONB2Process/>
+        <processStatusONB2Process/>
+    </EmpEmployment>
+    <EmpEmployment>
+        <userId>U2</userId>
+        <personIdExternal>P1</personIdExternal>
+        <empJobStatus>INACTIVE</empJobStatus>
+        <assignmentClass>ST</assignmentClass>
+        <customString1>800309</customString1>
+        <lastName>Au-Yeung</lastName>
+        <middleName/>
+        <firstName>INT</firstName>
+        <thirdName>INT-D</thirdName>
+        <firstNameAlt1/>
+        <lastNameAlt1/>
+        <cust_legacyCodeString6>MCA0101</cust_legacyCodeString6>
+        <dateOfBirth>2024-02-28T00:00:00.000</dateOfBirth>
+        <cardType/>
+        <nationalId/>
+        <company>JC</company>
+        <startDate>2024-03-18T00:00:00.000</startDate>
+        <employeeClass>1030</employeeClass>
+        <employeeClassExternalCode>1</employeeClassExternalCode>
+        <customString14>STA</customString14>
+        <status>ACTIVE</status>
+        <seqNumbermpJob>1</seqNumbermpJob>
+        <startDateEmpJob>2024-03-21T00:00:00.000</startDateEmpJob>
+        <endDateEmpJob>9999-12-31T00:00:00.000</endDateEmpJob>
+        <cust_legacyCodeCostCenterNav>10012901</cust_legacyCodeCostCenterNav>
+        <jobCode>12000045</jobCode>
+        <cust_legacyCodeDepartmentNav>MCA</cust_legacyCodeDepartmentNav>
+        <holidayCalendarCode>HK_HC_NH</holidayCalendarCode>
+        <payGrade>ST08</payGrade>
+        <customString13>13</customString13>
+        <privatePhoneNumber/>
+        <homePhoneNumber/>
+        <code>HKG</code>
+        <externalName_en_GB>Hong Kong</externalName_en_GB>
+        <address1>Residential Address1</address1>
+        <address2>Residential Address2</address2>
+        <city>Kwun Tong</city>
+        <externalCodeStateNav>KLN</externalCodeStateNav>
+        <state>Kowloon</state>
+        <zipCode/>
+        <nameFODepartment>Mem Ops and Services</nameFODepartment>
+        <gender>M</gender>
+        <workscheduleCode>HK7D44</workscheduleCode>
+        <customString17/>
+        <secondaryExternalCode/>
+        <empJobStatusExternalCode>T</empJobStatusExternalCode>
+        <activeUserIdPerPersonIdExternal/>
+        <inActiveUserIdPerPersonIdExternal/>
+        <userIdEmpEmploymentTermination></userIdEmpEmploymentTermination>
+        <userONB2Process>96000206</userONB2Process>
+        <processStatusONB2Process>COMPLETED</processStatusONB2Process>
+    </EmpEmployment>
+    <EmpEmployment>
+        <userId>U3</userId>
+        <personIdExternal>P1</personIdExternal>
+        <empJobStatus>INACTIVE</empJobStatus>
+        <assignmentClass>GA</assignmentClass>
+        <customString1>800309</customString1>
+        <lastName>Au-Yeung</lastName>
+        <middleName/>
+        <firstName>INT</firstName>
+        <thirdName>INT-D</thirdName>
+        <firstNameAlt1/>
+        <lastNameAlt1/>
+        <cust_legacyCodeString6>MCA0101</cust_legacyCodeString6>
+        <dateOfBirth>2024-02-28T00:00:00.000</dateOfBirth>
+        <cardType/>
+        <nationalId/>
+        <company>JC</company>
+        <startDate>2024-03-18T00:00:00.000</startDate>
+        <employeeClass>1030</employeeClass>
+        <employeeClassExternalCode>1</employeeClassExternalCode>
+        <customString14>STA</customString14>
+        <status>ACTIVE</status>
+        <seqNumbermpJob>1</seqNumbermpJob>
+        <startDateEmpJob>2024-03-21T00:00:00.000</startDateEmpJob>
+        <endDateEmpJob>9991-12-31T00:00:00.000</endDateEmpJob>
+        <cust_legacyCodeCostCenterNav>10012901</cust_legacyCodeCostCenterNav>
+        <jobCode>12000045</jobCode>
+        <cust_legacyCodeDepartmentNav>MCA</cust_legacyCodeDepartmentNav>
+        <holidayCalendarCode>HK_HC_NH</holidayCalendarCode>
+        <payGrade>ST08</payGrade>
+        <customString13>13</customString13>
+        <privatePhoneNumber/>
+        <homePhoneNumber/>
+        <code>HKG</code>
+        <externalName_en_GB>Hong Kong</externalName_en_GB>
+        <address1>Residential Address1</address1>
+        <address2>Residential Address2</address2>
+        <city>Kwun Tong</city>
+        <externalCodeStateNav>KLN</externalCodeStateNav>
+        <state>Kowloon</state>
+        <zipCode/>
+        <nameFODepartment>Mem Ops and Services</nameFODepartment>
+        <gender>M</gender>
+        <workscheduleCode>HK7D44</workscheduleCode>
+        <customString17/>
+        <secondaryExternalCode/>
+        <empJobStatusExternalCode>T</empJobStatusExternalCode>
+        <activeUserIdPerPersonIdExternal/>
+        <inActiveUserIdPerPersonIdExternal/>
+        <userIdEmpEmploymentTermination>96000206</userIdEmpEmploymentTermination>
+        <userONB2Process>96000206</userONB2Process>
+        <processStatusONB2Process>COMPLETED</processStatusONB2Process>
+    </EmpEmployment>
+</EmpEmployment>

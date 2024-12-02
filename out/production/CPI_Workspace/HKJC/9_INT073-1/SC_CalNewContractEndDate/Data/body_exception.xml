@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmpJob>
+    <EmpJob>
+        <userId>70000101</userId>
+        <startDate>2024-01-01T00:00:00.000</startDate>
+        <endDate>9999-12-31T00:00:00.000</endDate>
+        <managerId>70029280</managerId>
+        <contractEndDate>2024-12-31T00:00:00.000</contractEndDate>
+        <cust_positionCategory>3</cust_positionCategory>
+        <cust_jobCategory />
+        <division>12000200</division>
+        <department>22000080</department>
+        <salaryPlan>STB</salaryPlan>
+        <dateOfBirth>1990-09-11T00:00:00.000</dateOfBirth>
+        <displayName>Erick How 陳亮</displayName>
+        <email>ward.peng@gmai.com</email>
+        <cust_End_date_rules>6</cust_End_date_rules>
+        <cust_first_months>2</cust_first_months>
+        <cust_second_months>10</cust_second_months>
+        <cust_Ge3_months>12</cust_Ge3_months>
+        <cust_determinelevel>1</cust_determinelevel>
+        <contractEndDateNew />
+    </EmpJob>
+    <EmpJob>
+        <userId>70001094</userId>
+        <startDate>2024-01-01T00:00:00.000</startDate>
+        <endDate>9999-12-31T00:00:00.000</endDate>
+        <managerId>70029280</managerId>
+        <contractEndDate>2024-12-31T00:00:00.000</contractEndDate>
+        <cust_positionCategory>3</cust_positionCategory>
+        <cust_jobCategory>7</cust_jobCategory>
+        <division>12000250</division>
+        <department>22000153</department>
+        <salaryPlan>PT</salaryPlan>
+        <dateOfBirth>1990-12-02T00:00:00.000</dateOfBirth>
+        <displayName>Ezera Yung 許安棋</displayName>
+        <email>ward.peng@gmai.com</email>
+        <cust_End_date_rules>6</cust_End_date_rules>
+        <cust_first_months>2</cust_first_months>
+        <cust_second_months>10</cust_second_months>
+        <cust_Ge3_months>12</cust_Ge3_months>
+        <cust_determinelevel>1</cust_determinelevel>
+        <contractEndDateNew />
+    </EmpJob>
+    <EmpJob>
+        <userId>70001095</userId>
+        <startDate>2024-01-01T00:00:00.000</startDate>
+        <endDate>9999-12-31T00:00:00.000</endDate>
+        <managerId>70029280</managerId>
+        <contractEndDate>2024-12-31T00:00:00.000</contractEndDate>
+        <cust_positionCategory />
+        <cust_jobCategory>7</cust_jobCategory>
+        <division>12000250</division>
+        <department>22000153</department>
+        <salaryPlan>PT</salaryPlan>
+        <dateOfBirth>1994-03-25T00:00:00.000</dateOfBirth>
+        <displayName>Jao King 莫浩然</displayName>
+        <email>ward.peng@gmai.com</email>
+        <cust_End_date_rules>6</cust_End_date_rules>
+        <cust_first_months>2</cust_first_months>
+        <cust_second_months>10</cust_second_months>
+        <cust_Ge3_months>12</cust_Ge3_months>
+        <cust_determinelevel>1</cust_determinelevel>
+        <contractEndDateNew />
+    </EmpJob>
+    <EmpJob>
+        <userId>70001099</userId>
+        <startDate>2024-01-01T00:00:00.000</startDate>
+        <endDate>9999-12-31T00:00:00.000</endDate>
+        <managerId>70029280</managerId>
+        <contractEndDate>2024-12-31T00:00:00.000</contractEndDate>
+        <cust_positionCategory />
+        <cust_jobCategory>7</cust_jobCategory>
+        <division>12000250</division>
+        <department>22000153</department>
+        <salaryPlan>PT</salaryPlan>
+        <dateOfBirth>1968-08-23T00:00:00.000</dateOfBirth>
+        <displayName>Jao Au Yeung 葉雨林</displayName>
+        <email>ward.peng@gmai.com</email>
+        <cust_End_date_rules>6</cust_End_date_rules>
+        <cust_first_months>2</cust_first_months>
+        <cust_second_months>10</cust_second_months>
+        <cust_Ge3_months>12</cust_Ge3_months>
+        <cust_determinelevel>1</cust_determinelevel>
+        <contractEndDateNew />
+    </EmpJob>
+</EmpJob>

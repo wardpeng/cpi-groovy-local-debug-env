@@ -1,0 +1,14 @@
+<EmpEmployment>
+    <personIdExternal>1</personIdExternal>
+    <userId>40003672</userId>
+    <createdOn>2024-02-06T14:35:33.000</createdOn>
+    <isFulltimeEmployee>false</isFulltimeEmployee>
+    <customString5>30000315</customString5>
+    <customString4>HK</customString4>
+    <department>20000173</department>
+    <externalCode>839027</externalCode>
+    <cust_endDate>2024-02-01T00:00:00.000</cust_endDate>
+    <cust_status>1</cust_status>
+    <badgeOrgUnit_externalCode>123</badgeOrgUnit_externalCode>
+    <badgeid_log>234</badgeid_log>
+</EmpEmployment>

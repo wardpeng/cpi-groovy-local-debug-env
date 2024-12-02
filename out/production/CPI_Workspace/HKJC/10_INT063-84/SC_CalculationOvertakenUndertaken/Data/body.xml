@@ -1,0 +1,24 @@
+<EmpEmploymentTermination>
+    <EmpEmploymentTermination>
+        <endDate>2024-10-01T00:00:00.000</endDate>
+        <personIdExternal>40007049</personIdExternal>
+        <userId>60000322</userId>
+        <eventReason>74</eventReason>
+        <dayModel>SH10</dayModel>
+        <externalCode>60000322332024</externalCode>
+        <endDateTemporaryTimeInformation>2024-08-01T00:00:00.000</endDateTemporaryTimeInformation>
+        <userIdTemporaryTimeInformation>60000322</userIdTemporaryTimeInformation>
+        <startDateTemporaryTimeInformation>2024-08-01T00:00:00.000</startDateTemporaryTimeInformation>
+    </EmpEmploymentTermination>
+    <EmpEmploymentTermination>
+        <endDate>2024-10-01T00:00:00.000</endDate>
+        <personIdExternal>40007049</personIdExternal>
+        <userId>60000322</userId>
+        <eventReason>74</eventReason>
+        <dayModel>SH09</dayModel>
+        <externalCode>60000322332024</externalCode>
+        <endDateTemporaryTimeInformation>2024-08-02T00:00:00.000</endDateTemporaryTimeInformation>
+        <userIdTemporaryTimeInformation>60000322</userIdTemporaryTimeInformation>
+        <startDateTemporaryTimeInformation>2024-08-02T00:00:00.000</startDateTemporaryTimeInformation>
+    </EmpEmploymentTermination>
+</EmpEmploymentTermination>

@@ -1,0 +1,32 @@
+<cust_FTEInfo>
+    <cust_FTEInfo>
+        <externalCode>1</externalCode>
+        <effectiveStartDate>3/21/2024</effectiveStartDate>
+        <cust_actNumberOfHoursWorked>44</cust_actNumberOfHoursWorked>
+    </cust_FTEInfo>
+    <cust_FTEInfo>
+        <externalCode></externalCode>
+        <effectiveStartDate>3/21/2024</effectiveStartDate>
+        <cust_actNumberOfHoursWorked>44</cust_actNumberOfHoursWorked>
+    </cust_FTEInfo>
+    <cust_FTEInfo>
+        <externalCode>3</externalCode>
+        <effectiveStartDate></effectiveStartDate>
+        <cust_actNumberOfHoursWorked>44</cust_actNumberOfHoursWorked>
+    </cust_FTEInfo>
+    <cust_FTEInfo>
+        <externalCode>4</externalCode>
+        <effectiveStartDate>3/21/2024</effectiveStartDate>
+        <cust_actNumberOfHoursWorked></cust_actNumberOfHoursWorked>
+    </cust_FTEInfo>
+    <cust_FTEInfo>
+        <externalCode>5</externalCode>
+        <effectiveStartDate>122/21/2024</effectiveStartDate>
+        <cust_actNumberOfHoursWorked>44</cust_actNumberOfHoursWorked>
+    </cust_FTEInfo>
+    <cust_FTEInfo>
+        <externalCode>6</externalCode>
+        <effectiveStartDate>3/21/2024</effectiveStartDate>
+        <cust_actNumberOfHoursWorked>aa</cust_actNumberOfHoursWorked>
+    </cust_FTEInfo>
+</cust_FTEInfo>

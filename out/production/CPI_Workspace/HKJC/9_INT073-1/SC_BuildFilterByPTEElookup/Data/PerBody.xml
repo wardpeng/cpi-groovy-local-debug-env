@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmpEmployment>
+    <EmpEmployment>
+        <cust_dailyRate></cust_dailyRate>
+        <name>Mgr, Corporate Security</name>
+        <ChineseJobCodeDescription></ChineseJobCodeDescription>
+        <cust_legacyCode></cust_legacyCode>
+        <startDate>2024-01-14T00:00:00.000</startDate>
+        <status>A</status>
+    </EmpEmployment>
+    <EmpEmployment>
+        <cust_dailyRate></cust_dailyRate>
+        <name>Telebet Supervisor</name>
+        <ChineseJobCodeDescription></ChineseJobCodeDescription>
+        <cust_legacyCode>747</cust_legacyCode>
+        <startDate>1900-01-01T00:00:00.000</startDate>
+        <status>A</status>
+    </EmpEmployment>
+</EmpEmployment>

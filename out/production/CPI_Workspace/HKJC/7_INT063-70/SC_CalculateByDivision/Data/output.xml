@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><cust_divisionalAveWorkingHours>
+  <cust_divisionalAveWorkingHours>
+    <externalCode>1</externalCode>
+    <effectiveStartDate>2024-04-18T00:00:00</effectiveStartDate>
+    <cust_FTdivisionalAveWorkingHours>0.33</cust_FTdivisionalAveWorkingHours>
+    <cust_FTdivisionalAveWorkingHoursMON>1.43</cust_FTdivisionalAveWorkingHoursMON>
+  </cust_divisionalAveWorkingHours>
+  <cust_divisionalAveWorkingHours>
+    <externalCode>2</externalCode>
+    <effectiveStartDate>2024-04-18T00:00:00</effectiveStartDate>
+    <cust_FTdivisionalAveWorkingHours>1.00</cust_FTdivisionalAveWorkingHours>
+    <cust_FTdivisionalAveWorkingHoursMON>4.29</cust_FTdivisionalAveWorkingHoursMON>
+  </cust_divisionalAveWorkingHours>
+</cust_divisionalAveWorkingHours>

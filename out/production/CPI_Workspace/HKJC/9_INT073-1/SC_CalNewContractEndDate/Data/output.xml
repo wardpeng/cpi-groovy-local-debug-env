@@ -1,0 +1,22 @@
+<emailList>
+  <emailList>
+    <managerId>10771352</managerId>
+    <userIdList>60000166,</userIdList>
+    <emailTo>pegasusecsp1@163.com</emailTo>
+    <emailBody>
+        &lt;!DOCTYPE html&gt;
+        &lt;html&gt;
+            &lt;head&gt;&lt;style&gt;table, th, td {border:1px solid black;text-align: center;}&lt;/style&gt;&lt;/head&gt;
+            &lt;body&gt;We would like to bring to your attention that the contractual end date for below employees are less than 3 months away. Kindly be reminded to take appropriate course of action. To access the workflow request, please click &lt;a href=https://hcm10preview.sapsf.com/sf/pendingworkflows?company=thehongk03T2&gt;My Workflow Request&lt;/a&gt;&lt;br /&gt;Total No, of PT Staff: 1
+                &lt;table style='width:75%' align='center'&gt;
+                    &lt;tr&gt;
+                        &lt;th&gt;Employee ID&lt;/th&gt;
+                        &lt;th&gt;Employee Name&lt;/th&gt;
+                        &lt;th&gt;New Contract End Date&lt;/th&gt;
+                    &lt;/tr&gt;
+        &lt;tr&gt;&lt;td&gt;60000166&lt;/td&gt;&lt;td&gt;Mo, Wun&lt;/td&gt;&lt;td&gt;2025-十二月-31&lt;/td&gt;&lt;/tr&gt;
+                &lt;/table&gt;
+            &lt;/body&gt;
+        &lt;/html&gt;</emailBody>
+  </emailList>
+</emailList>

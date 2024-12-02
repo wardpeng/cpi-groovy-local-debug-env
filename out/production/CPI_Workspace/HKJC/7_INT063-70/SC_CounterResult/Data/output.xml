@@ -1,0 +1,58 @@
+<batchPartResponse>
+    <batchChangeSetResponse>
+        <batchChangeSetPartResponse>
+            <headers>
+                <Accept/>
+                <Accept-Language/>
+                <successfactors-internal-apiresource>cust_FTEInfo</successfactors-internal-apiresource>
+                <Content-Length>2041</Content-Length>
+                <DataServiceVersion>1.0</DataServiceVersion>
+                <Content-Type>application/atom+xml;charset=utf-8</Content-Type>
+                <successfactors-message>X-SF-Correlation-Id, successfactors-sourcetype are missing in request headers</successfactors-message>
+            </headers>
+            <statusInfo>OK</statusInfo>
+            <contentId/>
+            <body>
+                <UpsertResponses>
+                    <cust_FTEInfo>
+                        <key>cust_FTEInfo/effectiveStartDate=2024-04-17T00:00:00.000+10:00,cust_FTEInfo/externalCode=97000002</key>
+                        <status>OK</status>
+                        <editStatus>UPSERTED</editStatus>
+                        <message null="true"/>
+                        <index type="Edm.Int32">0</index>
+                        <httpCode type="Edm.Int32">200</httpCode>
+                        <inlineResults type="Bag(SFOData.UpsertResult)"/>
+                    </cust_FTEInfo>
+                    <cust_FTEInfo>
+                        <key>cust_FTEInfo/effectiveStartDate=2024-04-17T00:00:00.000+10:00,cust_FTEInfo/externalCode=97000003</key>
+                        <status>OK</status>
+                        <editStatus>UPSERTED</editStatus>
+                        <message null="true"/>
+                        <index type="Edm.Int32">1</index>
+                        <httpCode type="Edm.Int32">200</httpCode>
+                        <inlineResults type="Bag(SFOData.UpsertResult)"/>
+                    </cust_FTEInfo>
+                    <cust_FTEInfo>
+                        <key>cust_FTEInfo/effectiveStartDate=2024-04-17T00:00:00.000+10:00,cust_FTEInfo/externalCode=97000004</key>
+                        <status>OK</status>
+                        <editStatus>UPSERTED</editStatus>
+                        <message null="true"/>
+                        <index type="Edm.Int32">2</index>
+                        <httpCode type="Edm.Int32">200</httpCode>
+                        <inlineResults type="Bag(SFOData.UpsertResult)"/>
+                    </cust_FTEInfo>
+                    <cust_FTEInfo>
+                        <key>cust_FTEInfo/effectiveStartDate=2024-04-17T00:00:00.000+10:00,cust_FTEInfo/externalCode=97000005</key>
+                        <status>OK</status>
+                        <editStatus>UPSERTED</editStatus>
+                        <message null="true"/>
+                        <index type="Edm.Int32">3</index>
+                        <httpCode type="Edm.Int32">200</httpCode>
+                        <inlineResults type="Bag(SFOData.UpsertResult)"/>
+                    </cust_FTEInfo>
+                </UpsertResponses>
+            </body>
+            <statusCode>200</statusCode>
+        </batchChangeSetPartResponse>
+    </batchChangeSetResponse>
+</batchPartResponse>

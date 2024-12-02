@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?><EmpEmployment>
+  <EmpEmployment>
+    <Action/>
+    <EmployeeID>1</EmployeeID>
+    <userId>1</userId>
+    <BadgeNumber>123</BadgeNumber>
+    <LastName>Shen</LastName>
+    <MiddleNameandFirstName>Lu Yi </MiddleNameandFirstName>
+    <PreferredFirstName>Lester</PreferredFirstName>
+    <ChineseName>禄意 申</ChineseName>
+    <HKID>MCA0</HKID>
+    <BirthDate>02/12/1992</BirthDate>
+    <RegulatoryRegion>HKG</RegulatoryRegion>
+    <HireDate>01/01/2023</HireDate>
+    <EmployeeClassification>FT</EmployeeClassification>
+    <SalaryAdministrationPlan>PTG</SalaryAdministrationPlan>
+    <EmploymentStatus>A</EmploymentStatus>
+    <EffectiveDate>29/01/2024</EffectiveDate>
+    <JobEndDate>30/06/2024</JobEndDate>
+    <CostCentre>39002105</CostCentre>
+    <JobCode>12221185</JobCode>
+    <DepartmentID/>
+    <HolidaySchedule>HK_HC_PH</HolidaySchedule>
+    <SalaryGrade>PTG00</SalaryGrade>
+    <MobilePhoneNumber/>
+    <HomePhoneNumber/>
+    <LastUpdateDateTime>01-Mar-2024 12.21.48.000000000</LastUpdateDateTime>
+    <MAILCOUNTRY>HKG</MAILCOUNTRY>
+    <MAILCOUNTRYDESC>Hong Kong</MAILCOUNTRYDESC>
+    <MAILADDRESS1/>
+    <MAILADDRESS2/>
+    <MAILADDRESS3/>
+    <MAILADDRESS4/>
+    <MAILDISTRICT/>
+    <MAILSTATE/>
+    <MAILSTATEDESC/>
+    <POSTAL/>
+    <HOMEDISTRICT/>
+    <DEPTDESC>Mem Ops and Services</DEPTDESC>
+    <GENDER>M</GENDER>
+    <WORK_SCHEDULE>HK7D44</WORK_SCHEDULE>
+    <VAC_Info/>
+    <Med_Expiry_Date/>
+    <RegularShift/>
+  </EmpEmployment>
+  <EmpEmployment>
+    <Action>U</Action>
+    <EmployeeID>1</EmployeeID>
+    <userId>3</userId>
+    <BadgeNumber>123</BadgeNumber>
+    <LastName>Shen</LastName>
+    <MiddleNameandFirstName>Lu Yi </MiddleNameandFirstName>
+    <PreferredFirstName>Lester</PreferredFirstName>
+    <ChineseName>禄意 申</ChineseName>
+    <HKID>MCA0</HKID>
+    <BirthDate>02/12/1992</BirthDate>
+    <RegulatoryRegion>HKG</RegulatoryRegion>
+    <HireDate>01/01/2023</HireDate>
+    <EmployeeClassification>FT</EmployeeClassification>
+    <SalaryAdministrationPlan>PTG</SalaryAdministrationPlan>
+    <EmploymentStatus>A</EmploymentStatus>
+    <EffectiveDate>29/01/2024</EffectiveDate>
+    <JobEndDate>30/06/2024</JobEndDate>
+    <CostCentre>39002105</CostCentre>
+    <JobCode>12221185</JobCode>
+    <DepartmentID/>
+    <HolidaySchedule>HK_HC_PH</HolidaySchedule>
+    <SalaryGrade>PTG00</SalaryGrade>
+    <MobilePhoneNumber/>
+    <HomePhoneNumber/>
+    <LastUpdateDateTime>01-Mar-2024 12.21.48.000000000</LastUpdateDateTime>
+    <MAILCOUNTRY>HKG</MAILCOUNTRY>
+    <MAILCOUNTRYDESC>Hong Kong</MAILCOUNTRYDESC>
+    <MAILADDRESS1/>
+    <MAILADDRESS2/>
+    <MAILADDRESS3/>
+    <MAILADDRESS4/>
+    <MAILDISTRICT/>
+    <MAILSTATE/>
+    <MAILSTATEDESC/>
+    <POSTAL/>
+    <HOMEDISTRICT/>
+    <DEPTDESC>Mem Ops and Services</DEPTDESC>
+    <GENDER>M</GENDER>
+    <WORK_SCHEDULE>HK7D44</WORK_SCHEDULE>
+    <VAC_Info/>
+    <Med_Expiry_Date/>
+    <RegularShift/>
+  </EmpEmployment>
+</EmpEmployment>

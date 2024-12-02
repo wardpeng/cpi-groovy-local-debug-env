@@ -1,0 +1,647 @@
+<EmpEmployment>
+    <EmpEmployment>
+        <Action>D</Action>
+        <EmployeeID>96002361</EmployeeID>
+        <BadgeNumber>908601</BadgeNumber>
+        <LastName>Huo</LastName>
+        <MiddleNameandFirstName>Kai Xi </MiddleNameandFirstName>
+        <PreferredFirstName>Gentle</PreferredFirstName>
+        <ChineseName>霍开西</ChineseName>
+        <HKID>R352</HKID>
+        <BirthDate>05/01/1980</BirthDate>
+        <RegulatoryRegion>HKG</RegulatoryRegion>
+        <HireDate>01/01/2024</HireDate>
+        <EmployeeClassification>PT</EmployeeClassification>
+        <SalaryAdministrationPlan>PT</SalaryAdministrationPlan>
+        <EmploymentStatus>I</EmploymentStatus>
+        <EffectiveDate>11/06/2024</EffectiveDate>
+        <JobEndDate>31/12/9999</JobEndDate>
+        <CostCentre>20043002</CostCentre>
+        <JobCode>PTC01</JobCode>
+        <DepartmentID>RRL</DepartmentID>
+        <HolidaySchedule>NPH44</HolidaySchedule>
+        <SalaryGrade>00</SalaryGrade>
+        <MobilePhoneNumber>96002361</MobilePhoneNumber>
+        <HomePhoneNumber>76002361</HomePhoneNumber>
+        <LastUpdateDateTime/>
+        <MAILCOUNTRY>HKG</MAILCOUNTRY>
+        <MAILCOUNTRYDESC>Hong Kong</MAILCOUNTRYDESC>
+        <MAILADDRESS1>Branch 720, Kowloon City, Nga Tsin Long</MAILADDRESS1>
+        <MAILADDRESS2>PP aprtment</MAILADDRESS2>
+        <MAILADDRESS3/>
+        <MAILADDRESS4/>
+        <MAILDISTRICT>Kwun Tong</MAILDISTRICT>
+        <MAILSTATE>K</MAILSTATE>
+        <MAILSTATEDESC>Kowloon</MAILSTATEDESC>
+        <POSTAL/>
+        <HOMEDISTRICT>Kwun Tong</HOMEDISTRICT>
+        <DEPTDESC>Racing Laboratory</DEPTDESC>
+        <GENDER>M</GENDER>
+        <WORK_SCHEDULE>SHIFTSCH</WORK_SCHEDULE>
+        <VAC_Info/>
+        <Med_Expiry_Date/>
+        <RegularShift/>
+    </EmpEmployment>
+    <EmpEmployment>
+        <Action>U</Action>
+        <EmployeeID>96001057</EmployeeID>
+        <BadgeNumber>909905</BadgeNumber>
+        <LastName>Qiang</LastName>
+        <MiddleNameandFirstName>Wei Ang </MiddleNameandFirstName>
+        <PreferredFirstName>Alma</PreferredFirstName>
+        <ChineseName>强为昂</ChineseName>
+        <HKID>M668</HKID>
+        <BirthDate>09/01/1980</BirthDate>
+        <RegulatoryRegion>HKG</RegulatoryRegion>
+        <HireDate>01/01/2024</HireDate>
+        <EmployeeClassification>FTC</EmployeeClassification>
+        <SalaryAdministrationPlan>CAB</SalaryAdministrationPlan>
+        <EmploymentStatus>A</EmploymentStatus>
+        <EffectiveDate>01/01/2024</EffectiveDate>
+        <JobEndDate>31/12/9999</JobEndDate>
+        <CostCentre>20011001</CostCentre>
+        <JobCode>A01958</JobCode>
+        <DepartmentID>RRO</DepartmentID>
+        <HolidaySchedule>NPH44</HolidaySchedule>
+        <SalaryGrade>03</SalaryGrade>
+        <MobilePhoneNumber>96001057</MobilePhoneNumber>
+        <HomePhoneNumber>76001057</HomePhoneNumber>
+        <LastUpdateDateTime/>
+        <MAILCOUNTRY>HKG</MAILCOUNTRY>
+        <MAILCOUNTRYDESC>Hong Kong</MAILCOUNTRYDESC>
+        <MAILADDRESS1>Level5</MAILADDRESS1>
+        <MAILADDRESS2>PP1</MAILADDRESS2>
+        <MAILADDRESS3/>
+        <MAILADDRESS4/>
+        <MAILDISTRICT>Wan Chai</MAILDISTRICT>
+        <MAILSTATE>H</MAILSTATE>
+        <MAILSTATEDESC>Hong Kong Island</MAILSTATEDESC>
+        <POSTAL/>
+        <HOMEDISTRICT>Wan Chai</HOMEDISTRICT>
+        <DEPTDESC>Dual Site Stables Operations</DEPTDESC>
+        <GENDER>M</GENDER>
+        <WORK_SCHEDULE>SHIFTSCH</WORK_SCHEDULE>
+        <VAC_Info/>
+        <Med_Expiry_Date/>
+        <RegularShift/>
+    </EmpEmployment>
+    <EmpEmployment>
+        <Action>D</Action>
+        <EmployeeID>96002362</EmployeeID>
+        <BadgeNumber>908600</BadgeNumber>
+        <LastName>Zong</LastName>
+        <MiddleNameandFirstName>Kai Ting </MiddleNameandFirstName>
+        <PreferredFirstName>George</PreferredFirstName>
+        <ChineseName>宗开霆</ChineseName>
+        <HKID>P395</HKID>
+        <BirthDate>06/01/1980</BirthDate>
+        <RegulatoryRegion>HKG</RegulatoryRegion>
+        <HireDate>01/01/2024</HireDate>
+        <EmployeeClassification>PT</EmployeeClassification>
+        <SalaryAdministrationPlan>HCP</SalaryAdministrationPlan>
+        <EmploymentStatus>I</EmploymentStatus>
+        <EffectiveDate>11/06/2024</EffectiveDate>
+        <JobEndDate>31/12/9999</JobEndDate>
+        <CostCentre>20043002</CostCentre>
+        <JobCode>F03231</JobCode>
+        <DepartmentID>RRL</DepartmentID>
+        <HolidaySchedule>NSH44</HolidaySchedule>
+        <SalaryGrade>00</SalaryGrade>
+        <MobilePhoneNumber>96002362</MobilePhoneNumber>
+        <HomePhoneNumber>76002362</HomePhoneNumber>
+        <LastUpdateDateTime/>
+        <MAILCOUNTRY>HKG</MAILCOUNTRY>
+        <MAILCOUNTRYDESC>Hong Kong</MAILCOUNTRYDESC>
+        <MAILADDRESS1>Branch 720, Kowloon City, Nga Tsin Long</MAILADDRESS1>
+        <MAILADDRESS2>PP aprtment</MAILADDRESS2>
+        <MAILADDRESS3/>
+        <MAILADDRESS4/>
+        <MAILDISTRICT>Kwun Tong</MAILDISTRICT>
+        <MAILSTATE>K</MAILSTATE>
+        <MAILSTATEDESC>Kowloon</MAILSTATEDESC>
+        <POSTAL/>
+        <HOMEDISTRICT>Kwun Tong</HOMEDISTRICT>
+        <DEPTDESC>Racing Laboratory</DEPTDESC>
+        <GENDER>M</GENDER>
+        <WORK_SCHEDULE>SHIFTSCH</WORK_SCHEDULE>
+        <VAC_Info/>
+        <Med_Expiry_Date/>
+        <RegularShift/>
+    </EmpEmployment>
+    <EmpEmployment>
+        <Action>D</Action>
+        <EmployeeID>96002363</EmployeeID>
+        <BadgeNumber>908599</BadgeNumber>
+        <LastName>Qi</LastName>
+        <MiddleNameandFirstName>Kai Lu </MiddleNameandFirstName>
+        <PreferredFirstName>George</PreferredFirstName>
+        <ChineseName>祁开鲁</ChineseName>
+        <HKID>X006</HKID>
+        <BirthDate>07/01/1980</BirthDate>
+        <RegulatoryRegion>HKG</RegulatoryRegion>
+        <HireDate>01/01/2024</HireDate>
+        <EmployeeClassification>PTG</EmployeeClassification>
+        <SalaryAdministrationPlan>PTC</SalaryAdministrationPlan>
+        <EmploymentStatus>I</EmploymentStatus>
+        <EffectiveDate>11/06/2024</EffectiveDate>
+        <JobEndDate>31/12/9999</JobEndDate>
+        <CostCentre>20043002</CostCentre>
+        <JobCode>F01468</JobCode>
+        <DepartmentID>RRL</DepartmentID>
+        <HolidaySchedule>NPH44</HolidaySchedule>
+        <SalaryGrade>00</SalaryGrade>
+        <MobilePhoneNumber>96002363</MobilePhoneNumber>
+        <HomePhoneNumber>76002363</HomePhoneNumber>
+        <LastUpdateDateTime/>
+        <MAILCOUNTRY>HKG</MAILCOUNTRY>
+        <MAILCOUNTRYDESC>Hong Kong</MAILCOUNTRYDESC>
+        <MAILADDRESS1>Branch 720, Kowloon City, Nga Tsin Long</MAILADDRESS1>
+        <MAILADDRESS2>PP aprtment</MAILADDRESS2>
+        <MAILADDRESS3/>
+        <MAILADDRESS4/>
+        <MAILDISTRICT>Kwun Tong</MAILDISTRICT>
+        <MAILSTATE>K</MAILSTATE>
+        <MAILSTATEDESC>Kowloon</MAILSTATEDESC>
+        <POSTAL/>
+        <HOMEDISTRICT>Kwun Tong</HOMEDISTRICT>
+        <DEPTDESC>Racing Laboratory</DEPTDESC>
+        <GENDER>M</GENDER>
+        <WORK_SCHEDULE>SHIFTSCH</WORK_SCHEDULE>
+        <VAC_Info/>
+        <Med_Expiry_Date/>
+        <RegularShift/>
+    </EmpEmployment>
+    <EmpEmployment>
+        <Action>D</Action>
+        <EmployeeID>96002625</EmployeeID>
+        <BadgeNumber>908337</BadgeNumber>
+        <LastName>Bao</LastName>
+        <MiddleNameandFirstName>Tuo Chen </MiddleNameandFirstName>
+        <PreferredFirstName>Hanna</PreferredFirstName>
+        <ChineseName>薄拓辰</ChineseName>
+        <HKID>X385</HKID>
+        <BirthDate>05/01/1980</BirthDate>
+        <RegulatoryRegion>HKG</RegulatoryRegion>
+        <HireDate>01/01/2024</HireDate>
+        <EmployeeClassification>FTT</EmployeeClassification>
+        <SalaryAdministrationPlan>TCA</SalaryAdministrationPlan>
+        <EmploymentStatus>I</EmploymentStatus>
+        <EffectiveDate>11/06/2024</EffectiveDate>
+        <JobEndDate>31/12/9999</JobEndDate>
+        <CostCentre>20043002</CostCentre>
+        <JobCode>F03210</JobCode>
+        <DepartmentID>RRO</DepartmentID>
+        <HolidaySchedule>NPH44</HolidaySchedule>
+        <SalaryGrade>02</SalaryGrade>
+        <MobilePhoneNumber>96002625</MobilePhoneNumber>
+        <HomePhoneNumber>76002625</HomePhoneNumber>
+        <LastUpdateDateTime/>
+        <MAILCOUNTRY>HKG</MAILCOUNTRY>
+        <MAILCOUNTRYDESC>Hong Kong</MAILCOUNTRYDESC>
+        <MAILADDRESS1>Branch 720, Kowloon City, Nga Tsin Long</MAILADDRESS1>
+        <MAILADDRESS2>PP aprtment</MAILADDRESS2>
+        <MAILADDRESS3/>
+        <MAILADDRESS4/>
+        <MAILDISTRICT>Kwun Tong</MAILDISTRICT>
+        <MAILSTATE>K</MAILSTATE>
+        <MAILSTATEDESC>Kowloon</MAILSTATEDESC>
+        <POSTAL/>
+        <HOMEDISTRICT>Kwun Tong</HOMEDISTRICT>
+        <DEPTDESC>Dual Site Stables Operations</DEPTDESC>
+        <GENDER>M</GENDER>
+        <WORK_SCHEDULE>SHIFTSCH</WORK_SCHEDULE>
+        <VAC_Info/>
+        <Med_Expiry_Date/>
+        <RegularShift/>
+    </EmpEmployment>
+    <EmpEmployment>
+        <Action>D</Action>
+        <EmployeeID>96002795</EmployeeID>
+        <BadgeNumber>908167</BadgeNumber>
+        <LastName>Wen</LastName>
+        <MiddleNameandFirstName>Zhao Lei </MiddleNameandFirstName>
+        <PreferredFirstName>Horatio</PreferredFirstName>
+        <ChineseName>温昭垒</ChineseName>
+        <HKID>N301023</HKID>
+        <BirthDate>07/01/1980</BirthDate>
+        <RegulatoryRegion>HKG</RegulatoryRegion>
+        <HireDate>01/01/2024</HireDate>
+        <EmployeeClassification>PT</EmployeeClassification>
+        <SalaryAdministrationPlan>PT</SalaryAdministrationPlan>
+        <EmploymentStatus>I</EmploymentStatus>
+        <EffectiveDate>11/06/2024</EffectiveDate>
+        <JobEndDate>31/12/9999</JobEndDate>
+        <CostCentre>20043002</CostCentre>
+        <JobCode>PTC01</JobCode>
+        <DepartmentID>MRA</DepartmentID>
+        <HolidaySchedule>NPH44</HolidaySchedule>
+        <SalaryGrade>00</SalaryGrade>
+        <MobilePhoneNumber>96002795</MobilePhoneNumber>
+        <HomePhoneNumber>76002795</HomePhoneNumber>
+        <LastUpdateDateTime/>
+        <MAILCOUNTRY>HKG</MAILCOUNTRY>
+        <MAILCOUNTRYDESC>Hong Kong</MAILCOUNTRYDESC>
+        <MAILADDRESS1>Branch 720, Kowloon City, Nga Tsin Long</MAILADDRESS1>
+        <MAILADDRESS2>PP aprtment</MAILADDRESS2>
+        <MAILADDRESS3/>
+        <MAILADDRESS4/>
+        <MAILDISTRICT>Kwun Tong</MAILDISTRICT>
+        <MAILSTATE>K</MAILSTATE>
+        <MAILSTATEDESC>Kowloon</MAILSTATEDESC>
+        <POSTAL/>
+        <HOMEDISTRICT>Kwun Tong</HOMEDISTRICT>
+        <DEPTDESC>Racecourse Management</DEPTDESC>
+        <GENDER>M</GENDER>
+        <WORK_SCHEDULE>SHIFTSCH</WORK_SCHEDULE>
+        <VAC_Info/>
+        <Med_Expiry_Date/>
+        <RegularShift/>
+    </EmpEmployment>
+    <EmpEmployment>
+        <Action>O</Action>
+        <EmployeeID>96002431</EmployeeID>
+        <BadgeNumber>908531</BadgeNumber>
+        <LastName>Wei</LastName>
+        <MiddleNameandFirstName>Xin Fu </MiddleNameandFirstName>
+        <PreferredFirstName>Gillian</PreferredFirstName>
+        <ChineseName>魏心福</ChineseName>
+        <HKID>D116</HKID>
+        <BirthDate>03/01/1980</BirthDate>
+        <RegulatoryRegion>HKG</RegulatoryRegion>
+        <HireDate>01/01/2024</HireDate>
+        <EmployeeClassification>FT</EmployeeClassification>
+        <SalaryAdministrationPlan>STB</SalaryAdministrationPlan>
+        <EmploymentStatus>A</EmploymentStatus>
+        <EffectiveDate>11/06/2024</EffectiveDate>
+        <JobEndDate>31/12/9999</JobEndDate>
+        <CostCentre>20043002</CostCentre>
+        <JobCode>A01138</JobCode>
+        <DepartmentID>RRO</DepartmentID>
+        <HolidaySchedule>NPH44</HolidaySchedule>
+        <SalaryGrade>01</SalaryGrade>
+        <MobilePhoneNumber>96002431</MobilePhoneNumber>
+        <HomePhoneNumber>76002431</HomePhoneNumber>
+        <LastUpdateDateTime/>
+        <MAILCOUNTRY>HKG</MAILCOUNTRY>
+        <MAILCOUNTRYDESC>Hong Kong</MAILCOUNTRYDESC>
+        <MAILADDRESS1>Branch 720, Kowloon City, Nga Tsin Long</MAILADDRESS1>
+        <MAILADDRESS2>PP aprtment</MAILADDRESS2>
+        <MAILADDRESS3/>
+        <MAILADDRESS4/>
+        <MAILDISTRICT>Kwun Tong</MAILDISTRICT>
+        <MAILSTATE>K</MAILSTATE>
+        <MAILSTATEDESC>Kowloon</MAILSTATEDESC>
+        <POSTAL/>
+        <HOMEDISTRICT>Kwun Tong</HOMEDISTRICT>
+        <DEPTDESC>Dual Site Stables Operations</DEPTDESC>
+        <GENDER>M</GENDER>
+        <WORK_SCHEDULE>SHIFTSCH</WORK_SCHEDULE>
+        <VAC_Info/>
+        <Med_Expiry_Date/>
+        <RegularShift/>
+    </EmpEmployment>
+    <EmpEmployment>
+        <Action>U</Action>
+        <EmployeeID>96001066</EmployeeID>
+        <BadgeNumber>909896</BadgeNumber>
+        <LastName>Hong</LastName>
+        <MiddleNameandFirstName>Li Qi </MiddleNameandFirstName>
+        <PreferredFirstName>Amaryllis</PreferredFirstName>
+        <ChineseName>洪丽奇</ChineseName>
+        <HKID>V817</HKID>
+        <BirthDate>06/01/1980</BirthDate>
+        <RegulatoryRegion>HKG</RegulatoryRegion>
+        <HireDate>01/01/2024</HireDate>
+        <EmployeeClassification>FT</EmployeeClassification>
+        <SalaryAdministrationPlan>STB</SalaryAdministrationPlan>
+        <EmploymentStatus>A</EmploymentStatus>
+        <EffectiveDate>01/01/2024</EffectiveDate>
+        <JobEndDate>10/06/2024</JobEndDate>
+        <CostCentre>20043002</CostCentre>
+        <JobCode>F01949</JobCode>
+        <DepartmentID>RRO</DepartmentID>
+        <HolidaySchedule>HK_HC_NPH0</HolidaySchedule>
+        <SalaryGrade>01</SalaryGrade>
+        <MobilePhoneNumber>96001066</MobilePhoneNumber>
+        <HomePhoneNumber>76001066</HomePhoneNumber>
+        <LastUpdateDateTime/>
+        <MAILCOUNTRY>HKG</MAILCOUNTRY>
+        <MAILCOUNTRYDESC>Hong Kong</MAILCOUNTRYDESC>
+        <MAILADDRESS1>Branch 720, Kowloon City, Nga Tsin Long</MAILADDRESS1>
+        <MAILADDRESS2>PP aprtment</MAILADDRESS2>
+        <MAILADDRESS3/>
+        <MAILADDRESS4/>
+        <MAILDISTRICT>Kwun Tong</MAILDISTRICT>
+        <MAILSTATE>K</MAILSTATE>
+        <MAILSTATEDESC>Kowloon</MAILSTATEDESC>
+        <POSTAL/>
+        <HOMEDISTRICT>Kwun Tong</HOMEDISTRICT>
+        <DEPTDESC>Dual Site Stables Operations</DEPTDESC>
+        <GENDER>M</GENDER>
+        <WORK_SCHEDULE>SHIFTSCH</WORK_SCHEDULE>
+        <VAC_Info/>
+        <Med_Expiry_Date/>
+        <RegularShift/>
+    </EmpEmployment>
+    <EmpEmployment>
+        <Action>U</Action>
+        <EmployeeID>96001066</EmployeeID>
+        <BadgeNumber>909896</BadgeNumber>
+        <LastName>Hong</LastName>
+        <MiddleNameandFirstName>Li Qi </MiddleNameandFirstName>
+        <PreferredFirstName>Amaryllis</PreferredFirstName>
+        <ChineseName>洪丽奇</ChineseName>
+        <HKID>V817</HKID>
+        <BirthDate>06/01/1980</BirthDate>
+        <RegulatoryRegion>HKG</RegulatoryRegion>
+        <HireDate>01/01/2024</HireDate>
+        <EmployeeClassification>FT</EmployeeClassification>
+        <SalaryAdministrationPlan>STB</SalaryAdministrationPlan>
+        <EmploymentStatus>A</EmploymentStatus>
+        <EffectiveDate>11/06/2024</EffectiveDate>
+        <JobEndDate>31/12/9999</JobEndDate>
+        <CostCentre>20043002</CostCentre>
+        <JobCode>A01138</JobCode>
+        <DepartmentID>RRO</DepartmentID>
+        <HolidaySchedule>HK_HC_NPH0</HolidaySchedule>
+        <SalaryGrade>01</SalaryGrade>
+        <MobilePhoneNumber>96001066</MobilePhoneNumber>
+        <HomePhoneNumber>76001066</HomePhoneNumber>
+        <LastUpdateDateTime/>
+        <MAILCOUNTRY>HKG</MAILCOUNTRY>
+        <MAILCOUNTRYDESC>Hong Kong</MAILCOUNTRYDESC>
+        <MAILADDRESS1>Branch 720, Kowloon City, Nga Tsin Long</MAILADDRESS1>
+        <MAILADDRESS2>PP aprtment</MAILADDRESS2>
+        <MAILADDRESS3/>
+        <MAILADDRESS4/>
+        <MAILDISTRICT>Kwun Tong</MAILDISTRICT>
+        <MAILSTATE>K</MAILSTATE>
+        <MAILSTATEDESC>Kowloon</MAILSTATEDESC>
+        <POSTAL/>
+        <HOMEDISTRICT>Kwun Tong</HOMEDISTRICT>
+        <DEPTDESC>Dual Site Stables Operations</DEPTDESC>
+        <GENDER>M</GENDER>
+        <WORK_SCHEDULE>SHIFTSCH</WORK_SCHEDULE>
+        <VAC_Info/>
+        <Med_Expiry_Date/>
+        <RegularShift/>
+    </EmpEmployment>
+    <EmpEmployment>
+        <Action>U</Action>
+        <EmployeeID>96002626</EmployeeID>
+        <BadgeNumber>908336</BadgeNumber>
+        <LastName>Ren</LastName>
+        <MiddleNameandFirstName>Zhen Yi </MiddleNameandFirstName>
+        <PreferredFirstName>Hannah</PreferredFirstName>
+        <ChineseName>任振意</ChineseName>
+        <HKID>H263</HKID>
+        <BirthDate>06/01/1980</BirthDate>
+        <RegulatoryRegion>HKG</RegulatoryRegion>
+        <HireDate>01/01/2024</HireDate>
+        <EmployeeClassification>FTT</EmployeeClassification>
+        <SalaryAdministrationPlan>TCA</SalaryAdministrationPlan>
+        <EmploymentStatus>A</EmploymentStatus>
+        <EffectiveDate>01/01/2024</EffectiveDate>
+        <JobEndDate>06/01/2025</JobEndDate>
+        <CostCentre>20043002</CostCentre>
+        <JobCode>F03210</JobCode>
+        <DepartmentID>RRO</DepartmentID>
+        <HolidaySchedule>NPH44</HolidaySchedule>
+        <SalaryGrade>02</SalaryGrade>
+        <MobilePhoneNumber>96002626</MobilePhoneNumber>
+        <HomePhoneNumber>76002626</HomePhoneNumber>
+        <LastUpdateDateTime/>
+        <MAILCOUNTRY>HKG</MAILCOUNTRY>
+        <MAILCOUNTRYDESC>Hong Kong</MAILCOUNTRYDESC>
+        <MAILADDRESS1>Branch 720, Kowloon City, Nga Tsin Long</MAILADDRESS1>
+        <MAILADDRESS2>PP aprtment</MAILADDRESS2>
+        <MAILADDRESS3/>
+        <MAILADDRESS4/>
+        <MAILDISTRICT>Kwun Tong</MAILDISTRICT>
+        <MAILSTATE>K</MAILSTATE>
+        <MAILSTATEDESC>Kowloon</MAILSTATEDESC>
+        <POSTAL/>
+        <HOMEDISTRICT>Kwun Tong</HOMEDISTRICT>
+        <DEPTDESC>Dual Site Stables Operations</DEPTDESC>
+        <GENDER>M</GENDER>
+        <WORK_SCHEDULE>SHIFTSCH</WORK_SCHEDULE>
+        <VAC_Info/>
+        <Med_Expiry_Date/>
+        <RegularShift/>
+    </EmpEmployment>
+    <EmpEmployment>
+        <Action>U</Action>
+        <EmployeeID>96002627</EmployeeID>
+        <BadgeNumber>908335</BadgeNumber>
+        <LastName>Zhong</LastName>
+        <MiddleNameandFirstName>Zhen Yang </MiddleNameandFirstName>
+        <PreferredFirstName>Hannah</PreferredFirstName>
+        <ChineseName>仲振洋</ChineseName>
+        <HKID>T348</HKID>
+        <BirthDate>07/01/1980</BirthDate>
+        <RegulatoryRegion>HKG</RegulatoryRegion>
+        <HireDate>11/06/2024</HireDate>
+        <EmployeeClassification>FTT</EmployeeClassification>
+        <SalaryAdministrationPlan>TCA</SalaryAdministrationPlan>
+        <EmploymentStatus>A</EmploymentStatus>
+        <EffectiveDate>11/06/2024</EffectiveDate>
+        <JobEndDate>31/12/9999</JobEndDate>
+        <CostCentre>20043002</CostCentre>
+        <JobCode>F03210</JobCode>
+        <DepartmentID>RRO</DepartmentID>
+        <HolidaySchedule>NPH44</HolidaySchedule>
+        <SalaryGrade>02</SalaryGrade>
+        <MobilePhoneNumber>96002627</MobilePhoneNumber>
+        <HomePhoneNumber>76002627</HomePhoneNumber>
+        <LastUpdateDateTime/>
+        <MAILCOUNTRY>HKG</MAILCOUNTRY>
+        <MAILCOUNTRYDESC>Hong Kong</MAILCOUNTRYDESC>
+        <MAILADDRESS1>Branch 720, Kowloon City, Nga Tsin Long</MAILADDRESS1>
+        <MAILADDRESS2>PP aprtment</MAILADDRESS2>
+        <MAILADDRESS3/>
+        <MAILADDRESS4/>
+        <MAILDISTRICT>Kwun Tong</MAILDISTRICT>
+        <MAILSTATE>K</MAILSTATE>
+        <MAILSTATEDESC>Kowloon</MAILSTATEDESC>
+        <POSTAL/>
+        <HOMEDISTRICT>Kwun Tong</HOMEDISTRICT>
+        <DEPTDESC>Dual Site Stables Operations</DEPTDESC>
+        <GENDER>M</GENDER>
+        <WORK_SCHEDULE>SHIFTSCH</WORK_SCHEDULE>
+        <VAC_Info/>
+        <Med_Expiry_Date/>
+        <RegularShift/>
+    </EmpEmployment>
+    <EmpEmployment>
+        <Action>U</Action>
+        <EmployeeID>96002629</EmployeeID>
+        <BadgeNumber>908333</BadgeNumber>
+        <LastName>Tan</LastName>
+        <MiddleNameandFirstName>Pan Dong </MiddleNameandFirstName>
+        <PreferredFirstName>Hannah</PreferredFirstName>
+        <ChineseName>谭攀东</ChineseName>
+        <HKID>L845</HKID>
+        <BirthDate>09/01/1980</BirthDate>
+        <RegulatoryRegion>HKG</RegulatoryRegion>
+        <HireDate>01/01/2024</HireDate>
+        <EmployeeClassification>FTT</EmployeeClassification>
+        <SalaryAdministrationPlan>TCA</SalaryAdministrationPlan>
+        <EmploymentStatus>A</EmploymentStatus>
+        <EffectiveDate>01/01/2024</EffectiveDate>
+        <JobEndDate>10/06/2024</JobEndDate>
+        <CostCentre>20043002</CostCentre>
+        <JobCode>F03210</JobCode>
+        <DepartmentID>RRO</DepartmentID>
+        <HolidaySchedule>NPH44</HolidaySchedule>
+        <SalaryGrade>02</SalaryGrade>
+        <MobilePhoneNumber>96002629</MobilePhoneNumber>
+        <HomePhoneNumber>76002629</HomePhoneNumber>
+        <LastUpdateDateTime/>
+        <MAILCOUNTRY>HKG</MAILCOUNTRY>
+        <MAILCOUNTRYDESC>Hong Kong</MAILCOUNTRYDESC>
+        <MAILADDRESS1>Branch 720, Kowloon City, Nga Tsin Long</MAILADDRESS1>
+        <MAILADDRESS2>PP aprtment</MAILADDRESS2>
+        <MAILADDRESS3/>
+        <MAILADDRESS4/>
+        <MAILDISTRICT>Kwun Tong</MAILDISTRICT>
+        <MAILSTATE>K</MAILSTATE>
+        <MAILSTATEDESC>Kowloon</MAILSTATEDESC>
+        <POSTAL/>
+        <HOMEDISTRICT>Kwun Tong</HOMEDISTRICT>
+        <DEPTDESC>Dual Site Stables Operations</DEPTDESC>
+        <GENDER>M</GENDER>
+        <WORK_SCHEDULE>SHIFTSCH</WORK_SCHEDULE>
+        <VAC_Info/>
+        <Med_Expiry_Date/>
+        <RegularShift/>
+    </EmpEmployment>
+    <EmpEmployment>
+        <Action>U</Action>
+        <EmployeeID>96002629</EmployeeID>
+        <BadgeNumber>908333</BadgeNumber>
+        <LastName>Tan</LastName>
+        <MiddleNameandFirstName>Pan Dong </MiddleNameandFirstName>
+        <PreferredFirstName>Hannah</PreferredFirstName>
+        <ChineseName>谭攀东</ChineseName>
+        <HKID>L845</HKID>
+        <BirthDate>09/01/1980</BirthDate>
+        <RegulatoryRegion>HKG</RegulatoryRegion>
+        <HireDate>01/01/2024</HireDate>
+        <EmployeeClassification>FTT</EmployeeClassification>
+        <SalaryAdministrationPlan>TCA</SalaryAdministrationPlan>
+        <EmploymentStatus>A</EmploymentStatus>
+        <EffectiveDate>11/06/2024</EffectiveDate>
+        <JobEndDate>31/12/9999</JobEndDate>
+        <CostCentre>20043002</CostCentre>
+        <JobCode>F03210</JobCode>
+        <DepartmentID>RRO</DepartmentID>
+        <HolidaySchedule>NPH44</HolidaySchedule>
+        <SalaryGrade>02</SalaryGrade>
+        <MobilePhoneNumber>96002629</MobilePhoneNumber>
+        <HomePhoneNumber>76002629</HomePhoneNumber>
+        <LastUpdateDateTime/>
+        <MAILCOUNTRY>HKG</MAILCOUNTRY>
+        <MAILCOUNTRYDESC>Hong Kong</MAILCOUNTRYDESC>
+        <MAILADDRESS1>Branch 720, Kowloon City, Nga Tsin Long</MAILADDRESS1>
+        <MAILADDRESS2>PP aprtment</MAILADDRESS2>
+        <MAILADDRESS3/>
+        <MAILADDRESS4/>
+        <MAILDISTRICT>Kwun Tong</MAILDISTRICT>
+        <MAILSTATE>K</MAILSTATE>
+        <MAILSTATEDESC>Kowloon</MAILSTATEDESC>
+        <POSTAL/>
+        <HOMEDISTRICT>Kwun Tong</HOMEDISTRICT>
+        <DEPTDESC>Dual Site Stables Operations</DEPTDESC>
+        <GENDER>M</GENDER>
+        <WORK_SCHEDULE>SHIFTSCH</WORK_SCHEDULE>
+        <VAC_Info/>
+        <Med_Expiry_Date/>
+        <RegularShift/>
+    </EmpEmployment>
+    <EmpEmployment>
+        <Action>U</Action>
+        <EmployeeID>96002818</EmployeeID>
+        <BadgeNumber>96002818</BadgeNumber>
+        <LastName>Dong</LastName>
+        <MiddleNameandFirstName>Yan Neng </MiddleNameandFirstName>
+        <PreferredFirstName>Humble</PreferredFirstName>
+        <ChineseName>董晏能</ChineseName>
+        <HKID/>
+        <BirthDate>06/01/1980</BirthDate>
+        <RegulatoryRegion>CHN</RegulatoryRegion>
+        <HireDate>01/01/2024</HireDate>
+        <EmployeeClassification>FT</EmployeeClassification>
+        <SalaryAdministrationPlan>HOD</SalaryAdministrationPlan>
+        <EmploymentStatus>A</EmploymentStatus>
+        <EffectiveDate>01/01/2024</EffectiveDate>
+        <JobEndDate>10/06/2024</JobEndDate>
+        <CostCentre>86700000</CostCentre>
+        <JobCode>F01982</JobCode>
+        <DepartmentID>ZFM</DepartmentID>
+        <HolidaySchedule>CHN</HolidaySchedule>
+        <SalaryGrade>HOD</SalaryGrade>
+        <MobilePhoneNumber>12396002818</MobilePhoneNumber>
+        <HomePhoneNumber>76002818</HomePhoneNumber>
+        <LastUpdateDateTime/>
+        <MAILCOUNTRY>CHN</MAILCOUNTRY>
+        <MAILCOUNTRYDESC>Mainland China</MAILCOUNTRYDESC>
+        <MAILADDRESS1>广州市从化区城郊街东风村13社25号</MAILADDRESS1>
+        <MAILADDRESS2>conghua</MAILADDRESS2>
+        <MAILADDRESS3/>
+        <MAILADDRESS4/>
+        <MAILDISTRICT>Guangzhou</MAILDISTRICT>
+        <MAILSTATE>44</MAILSTATE>
+        <MAILSTATEDESC>Guangdong</MAILSTATEDESC>
+        <POSTAL>510900</POSTAL>
+        <HOMEDISTRICT>Guangzhou</HOMEDISTRICT>
+        <DEPTDESC>CRC department SIT</DEPTDESC>
+        <GENDER>M</GENDER>
+        <WORK_SCHEDULE>SHIFTSCH</WORK_SCHEDULE>
+        <VAC_Info/>
+        <Med_Expiry_Date/>
+        <RegularShift>F</RegularShift>
+    </EmpEmployment>
+    <EmpEmployment>
+        <Action>U</Action>
+        <EmployeeID>96002818</EmployeeID>
+        <BadgeNumber>96002818</BadgeNumber>
+        <LastName>Dong</LastName>
+        <MiddleNameandFirstName>Yan Neng </MiddleNameandFirstName>
+        <PreferredFirstName>Humble</PreferredFirstName>
+        <ChineseName>董晏能</ChineseName>
+        <HKID/>
+        <BirthDate>06/01/1980</BirthDate>
+        <RegulatoryRegion>CHN</RegulatoryRegion>
+        <HireDate>01/01/2024</HireDate>
+        <EmployeeClassification>FT</EmployeeClassification>
+        <SalaryAdministrationPlan>HOD</SalaryAdministrationPlan>
+        <EmploymentStatus>A</EmploymentStatus>
+        <EffectiveDate>11/06/2024</EffectiveDate>
+        <JobEndDate>31/12/9999</JobEndDate>
+        <CostCentre>86700000</CostCentre>
+        <JobCode>F01982</JobCode>
+        <DepartmentID>ZFM</DepartmentID>
+        <HolidaySchedule>CHN</HolidaySchedule>
+        <SalaryGrade>HOD</SalaryGrade>
+        <MobilePhoneNumber>12396002818</MobilePhoneNumber>
+        <HomePhoneNumber>76002818</HomePhoneNumber>
+        <LastUpdateDateTime/>
+        <MAILCOUNTRY>CHN</MAILCOUNTRY>
+        <MAILCOUNTRYDESC>Mainland China</MAILCOUNTRYDESC>
+        <MAILADDRESS1>广州市从化区城郊街东风村13社25号</MAILADDRESS1>
+        <MAILADDRESS2>conghua</MAILADDRESS2>
+        <MAILADDRESS3/>
+        <MAILADDRESS4/>
+        <MAILDISTRICT>Guangzhou</MAILDISTRICT>
+        <MAILSTATE>44</MAILSTATE>
+        <MAILSTATEDESC>Guangdong</MAILSTATEDESC>
+        <POSTAL>510900</POSTAL>
+        <HOMEDISTRICT>Guangzhou</HOMEDISTRICT>
+        <DEPTDESC>CRC department SIT</DEPTDESC>
+        <GENDER>M</GENDER>
+        <WORK_SCHEDULE>SHIFTSCH</WORK_SCHEDULE>
+        <VAC_Info/>
+        <Med_Expiry_Date/>
+        <RegularShift>F</RegularShift>
+    </EmpEmployment>
+</EmpEmployment>

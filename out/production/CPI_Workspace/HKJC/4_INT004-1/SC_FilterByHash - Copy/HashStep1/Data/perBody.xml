@@ -1,0 +1,45 @@
+<EmpEmployment>
+    <EmpEmployment>
+        <Action/>
+        <EmployeeID>96000209</EmployeeID>
+        <BadgeNumber/>
+        <LastName>Au-Yeung</LastName>
+        <MiddleNameandFirstName>INT </MiddleNameandFirstName>
+        <PreferredFirstName>INT-D</PreferredFirstName>
+        <ChineseName/>
+        <HKID/>
+        <BirthDate/>
+        <RegulatoryRegion>CHN</RegulatoryRegion>
+        <HireDate>12/03/2024</HireDate>
+        <EmployeeClassification>FT</EmployeeClassification>
+        <SalaryAdministrationPlan>STA</SalaryAdministrationPlan>
+        <EmploymentStatus>I</EmploymentStatus>
+        <EffectiveDate>19/03/2024</EffectiveDate>
+        <JobEndDate>31/12/9999</JobEndDate>
+        <CostCentre>87200000</CostCentre>
+        <JobCode>12000045</JobCode>
+        <DepartmentID>RVC</DepartmentID>
+        <HolidaySchedule>CN_HC_NH</HolidaySchedule>
+        <SalaryGrade>08</SalaryGrade>
+        <MobilePhoneNumber/>
+        <HomePhoneNumber/>
+        <LastUpdateDateTime/>
+        <MAILCOUNTRY>CHN</MAILCOUNTRY>
+        <MAILCOUNTRYDESC>Mainland China</MAILCOUNTRYDESC>
+        <MAILADDRESS1>Residential Address detailed</MAILADDRESS1>
+        <MAILADDRESS2>DistrictRE</MAILADDRESS2>
+        <MAILADDRESS3/>
+        <MAILADDRESS4/>
+        <MAILDISTRICT>Beijing</MAILDISTRICT>
+        <MAILSTATE>11</MAILSTATE>
+        <MAILSTATEDESC>Beijing</MAILSTATEDESC>
+        <POSTAL>222222</POSTAL>
+        <HOMEDISTRICT>Beijing</HOMEDISTRICT>
+        <DEPTDESC>Veterinary Clinical Services Testing</DEPTDESC>
+        <GENDER>M</GENDER>
+        <WORK_SCHEDULE>CN_CRC_7D8H_ROS</WORK_SCHEDULE>
+        <VAC_Info/>
+        <Med_Expiry_Date/>
+        <RegularShift>F</RegularShift>
+    </EmpEmployment>
+</EmpEmployment>

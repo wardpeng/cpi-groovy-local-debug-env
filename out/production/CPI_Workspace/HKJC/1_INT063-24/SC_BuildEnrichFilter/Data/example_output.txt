@@ -1,0 +1,1 @@
+[{"__metadata": {"uri": "cust_blocklist"},"cust_cardID": "AA121467(7)","cust_employeeID": "INT00004","externalName": "HKID","cust_reson": "Ward1_insert","externalCode": "72383"}]

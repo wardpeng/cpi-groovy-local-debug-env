@@ -1,0 +1,20 @@
+<national_id_card>
+    <national_id_card>
+        <action>INSERT</action>
+        <card_type>AFG_Passport</card_type>
+        <country>AFG</country>
+        <isPrimary>false</isPrimary>
+        <national_id>323242342</national_id>
+        <custom_string16>posst ID test for INT063-24</custom_string16>
+        <user_id>40003610</user_id>
+    </national_id_card>
+    <national_id_card>
+        <action>INSERT</action>
+        <card_type>ResidentIdCard</card_type>
+        <country>CHN</country>
+        <isPrimary>true</isPrimary>
+        <national_id>500234199304038872</national_id>
+        <custom_string16>posst ID test for INT063-24</custom_string16>
+        <user_id>40003610</user_id>
+    </national_id_card>
+</national_id_card>

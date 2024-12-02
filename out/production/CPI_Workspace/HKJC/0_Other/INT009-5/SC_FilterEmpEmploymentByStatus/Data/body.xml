@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmpEmployments>
+
+    <EmpEmployment>
+        <personIdExternal>00976733</personIdExternal>
+        <thirdName>Bond</thirdName>
+        <birthName>Fung Can Fui</birthName>
+        <suffix>2134</suffix>
+        <startDate>2024-02-01T00:00:00.000</startDate>
+        <endDate/>
+        <homePhoneNumber>34367347</homePhoneNumber>
+        <workPhoneNumber/>
+        <sex>M</sex>
+        <secondaryExternalCode/>
+        <customString1>911437</customString1>
+        <payGroup>H2</payGroup>
+        <userId>00976733</userId>
+        <usersSysId/>
+        <positionTitle>Data conversion default Position for HIS</positionTitle>
+        <positionTitle1>Data conversion default Position for HIS</positionTitle1>
+        <positionEntrydate>2024-02-01T00:00:00.000</positionEntrydate>
+        <positionEntrydateDefault>2024-02-01T00:00:00.000</positionEntrydateDefault>
+        <customString13>14</customString13>
+        <jobCatagory>MA</jobCatagory>
+        <gradeLevel>MA01</gradeLevel>
+        <badgeNo>911437</badgeNo>
+        <company>JC</company>
+        <positionEnddate/>
+        <TerminationDate/>
+        <TransProdate/>
+        <TransProTime/>
+        <TransProType/>
+        <empJobStatus>ACTIVE</empJobStatus>
+        <StatusCode>A</StatusCode>
+        <empJobStatusExternalCode>A</empJobStatusExternalCode>
+        <activeUserIdPerPersonIdExternal/>
+        <inActiveUserIdPerPersonIdExternal/>
+        <assignmentClass>ST</assignmentClass>
+        <userIdEmpEmploymentTermination/>
+        <event>5</event>
+        <cust_legacyCodeString7>RRO020201</cust_legacyCodeString7>
+        <cust_legacyCodeString6>RRO0202</cust_legacyCodeString6>
+        <cust_legacyCodeString5>RRO02</cust_legacyCodeString5>
+        <cust_legacyCodeDepartment>RRO</cust_legacyCodeDepartment>
+        <cust_legacyCodeDvision>R</cust_legacyCodeDvision>
+        <cust_legacyCodeCompany/>
+    </EmpEmployment>
+    <EmpEmployment>
+        <personIdExternal>00976733</personIdExternal>
+        <thirdName>Bond</thirdName>
+        <birthName>Fung Can Fui</birthName>
+        <suffix>2134</suffix>
+        <startDate>2024-02-01T00:00:00.000</startDate>
+        <endDate/>
+        <homePhoneNumber>34367347</homePhoneNumber>
+        <workPhoneNumber/>
+        <sex>M</sex>
+        <secondaryExternalCode/>
+        <customString1>911437</customString1>
+        <payGroup>H2</payGroup>
+        <userId>22000312</userId>
+        <usersSysId/>
+        <positionTitle>Expert Work Rider</positionTitle>
+        <positionTitle1>Expert Work Rider</positionTitle1>
+        <positionEntrydate>2024-06-01T00:00:00.000</positionEntrydate>
+        <positionEntrydateDefault>2024-02-01T00:00:00.000</positionEntrydateDefault>
+        <customString13>14</customString13>
+        <jobCatagory>MA</jobCatagory>
+        <gradeLevel>MA01</gradeLevel>
+        <badgeNo>911437</badgeNo>
+        <company>JC</company>
+        <positionEnddate/>
+        <TerminationDate/>
+        <TransProdate/>
+        <TransProTime/>
+        <TransProType/>
+        <empJobStatus>ACTIVE</empJobStatus>
+        <StatusCode>A</StatusCode>
+        <empJobStatusExternalCode>A</empJobStatusExternalCode>
+        <activeUserIdPerPersonIdExternal/>
+        <inActiveUserIdPerPersonIdExternal/>
+        <assignmentClass>ST</assignmentClass>
+        <userIdEmpEmploymentTermination/>
+        <event>5</event>
+        <cust_legacyCodeString7>RRO020201</cust_legacyCodeString7>
+        <cust_legacyCodeString6>RRO0202</cust_legacyCodeString6>
+        <cust_legacyCodeString5>RRO02</cust_legacyCodeString5>
+        <cust_legacyCodeDepartment>RRO</cust_legacyCodeDepartment>
+        <cust_legacyCodeDvision>R</cust_legacyCodeDvision>
+        <cust_legacyCodeCompany/>
+    </EmpEmployment>
+</EmpEmployments>

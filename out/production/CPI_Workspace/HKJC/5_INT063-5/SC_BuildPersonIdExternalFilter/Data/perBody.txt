@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmpEmployment>
+	<EmpEmployment>
+		<assignmentClass>ST</assignmentClass>
+		<isContingentWorker>false</isContingentWorker>
+		<userId>112</userId>
+		<personIdExternal>112</personIdExternal>
+		<customString1 />
+		<lastName>Xie</lastName>
+		<middleName />
+		<firstName>Deevv</firstName>
+		<thirdName />
+		<firstNameAlt1 />
+		<lastNameAlt1 />
+		<cust_legacyCodeString6>7</cust_legacyCodeString6>
+		<dateOfBirth>1998-01-21T00:00:00.000</dateOfBirth>
+		<company>BJ</company>
+		<startDate>2024-01-05T00:00:00.000</startDate>
+		<employeeClass>1030</employeeClass>
+		<customString14>PST</customString14>
+		<status>ACTIVE</status>
+		<startDateEmpJob>2024-01-05T00:00:00.000</startDateEmpJob>
+		<endDateEmpJob>9999-12-31T00:00:00.000</endDateEmpJob>
+		<cust_legacyCodeCostCenterNav>41051203</cust_legacyCodeCostCenterNav>
+		<jobCode>99999999</jobCode>
+		<cust_legacyCodeDepartmentNav>MCA</cust_legacyCodeDepartmentNav>
+		<holidayCalendarCode>Dummy1</holidayCalendarCode>
+		<payGrade>PST00</payGrade>
+		<customString13>13</customString13>
+		<privatePhoneNumber />
+		<homePhoneNumber />
+		<code>CHN</code>
+		<externalName_en_GB>China</externalName_en_GB>
+		<address1 />
+		<address2 />
+		<city />
+		<externalCodeStateNav />
+		<state />
+		<zipCode />
+		<nameFODepartment>Mem Ops and Services</nameFODepartment>
+		<gender>M</gender>
+		<workscheduleCode>99999999</workscheduleCode>
+		<customString17>1020</customString17>
+	</EmpEmployment>
+	<EmpEmployment>
+		<assignmentClass>ST</assignmentClass>
+		<isContingentWorker>false</isContingentWorker>
+		<userId>113</userId>
+		<personIdExternal>113</personIdExternal>
+		<customString1 />
+		<lastName>Lee</lastName>
+		<middleName />
+		<firstName>Vivian</firstName>
+		<thirdName />
+		<firstNameAlt1 />
+		<lastNameAlt1 />
+		<cust_legacyCodeString6>IIO1301</cust_legacyCodeString6>
+		<dateOfBirth>1996-01-09T00:00:00.000</dateOfBirth>
+		<company>JC</company>
+		<startDate>2024-01-09T00:00:00.000</startDate>
+		<employeeClass>1032</employeeClass>
+		<customString14>AJ</customString14>
+		<status>ACTIVE</status>
+		<startDateEmpJob>2024-01-09T00:00:00.000</startDateEmpJob>
+		<endDateEmpJob>9999-12-31T00:00:00.000</endDateEmpJob>
+		<cust_legacyCodeCostCenterNav>39002122</cust_legacyCodeCostCenterNav>
+		<jobCode>12000487</jobCode>
+		<cust_legacyCodeDepartmentNav>IIO</cust_legacyCodeDepartmentNav>
+		<holidayCalendarCode>HK_HC_NH</holidayCalendarCode>
+		<payGrade>MA00</payGrade>
+		<customString13>14</customString13>
+		<privatePhoneNumber />
+		<homePhoneNumber />
+		<code>HKG</code>
+		<externalName_en_GB>Hong Kong</externalName_en_GB>
+		<address1>ABC</address1>
+		<address2>CCC</address2>
+		<city>1665</city>
+		<externalCodeStateNav>KLN</externalCodeStateNav>
+		<state>1654</state>
+		<zipCode />
+		<nameFODepartment>IT Opt &amp; Systems</nameFODepartment>
+		<gender>F</gender>
+		<workscheduleCode>HK5D44</workscheduleCode>
+		<customString17 />
+	</EmpEmployment>
+</EmpEmployment>

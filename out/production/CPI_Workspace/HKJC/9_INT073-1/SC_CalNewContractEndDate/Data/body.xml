@@ -1,0 +1,24 @@
+<EmpJob>
+    <EmpJob>
+        <userId>60000166</userId>
+        <startDate>2024-01-01T00:00:00.000</startDate>
+        <endDate>9999-12-31T00:00:00.000</endDate>
+        <managerId>10771352</managerId>
+        <contractEndDate>2024-12-31T00:00:00.000</contractEndDate>
+        <cust_positionCategory/>
+        <cust_jobCategory/>
+        <division>10000200</division>
+        <department>20000070</department>
+        <salaryPlan>HCP</salaryPlan>
+        <dateOfBirth>1990-01-01T00:00:00.000</dateOfBirth>
+        <displayName>Mo, Wun</displayName>
+        <email>pegasusecsp1@163.com</email>
+        <cust_End_date_rules/>
+        <cust_first_months/>
+        <cust_second_months/>
+        <cust_Ge3_months/>
+        <startDateEmpEmployment>2019-08-01T00:00:00.000</startDateEmpEmployment>
+        <customDate22>2025-09-30T00:00:00.000</customDate22>
+        <contractEndDateNew/>
+    </EmpJob>
+</EmpJob>

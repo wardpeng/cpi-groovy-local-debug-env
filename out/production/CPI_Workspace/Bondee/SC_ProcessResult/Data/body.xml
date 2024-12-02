@@ -1,0 +1,39 @@
+<soap-env:Envelope xmlns:soap-env="http://schemas.xmlsoap.org/soap/envelope/">
+    <soap-env:Header/>
+    <soap-env:Body>
+        <n0:JournalEntryBulkCreateConfirmation xmlns:n0="http://sap.com/xi/SAPSCORE/SFIN" xmlns:prx="urn:sap.com:proxy:XSF:/1SAI/TAS3D871C7855B59197A671:912">
+            <MessageHeader>
+                <UUID>3bf5524e-a89c-1edf-98a2-91d1fa491360</UUID>
+                <CreationDateTime>2024-08-23T05:57:20.724411Z</CreationDateTime>
+                <SenderBusinessSystemID>XSF</SenderBusinessSystemID>
+            </MessageHeader>
+            <ConfirmationInterfaceOrignName/>
+            <JournalEntryCreateConfirmation>
+                <MessageHeader>
+                    <UUID>3bf5524e-a89c-1edf-98a2-91d1fa493360</UUID>
+                    <CreationDateTime>2024-08-23T05:57:20.72447Z</CreationDateTime>
+                </MessageHeader>
+                <JournalEntryCreateConfirmation>
+                    <AccountingDocument>0000000000</AccountingDocument>
+                    <CompanyCode>HK02</CompanyCode>
+                    <FiscalYear>2024</FiscalYear>
+                </JournalEntryCreateConfirmation>
+                <Log>
+                    <MaximumLogItemSeverityCode>3</MaximumLogItemSeverityCode>
+                    <Item>
+                        <TypeID>609(RW)</TypeID>
+                        <SeverityCode>3</SeverityCode>
+                        <Note>Error in document: BKPFF $ 0M50EL8</Note>
+                        <WebURI>http://vhshpxsfci.shp.tyo.s4h.sap.corp:50000/sap/xi/docu_apperror?ID=NA&amp;OBJECT=RW609&amp;LANGUAGE=E&amp;MSGV1=BKPFF&amp;MSGV2=%24&amp;MSGV3=0M50EL8</WebURI>
+                    </Item>
+                    <Item>
+                        <TypeID>096(FINS_ACDOC_POST)</TypeID>
+                        <SeverityCode>3</SeverityCode>
+                        <Note>House bank account CBS01/CNY01 in company code HK02 doesn't exist</Note>
+                    </Item>
+                </Log>
+            </JournalEntryCreateConfirmation>
+            <Log/>
+        </n0:JournalEntryBulkCreateConfirmation>
+    </soap-env:Body>
+</soap-env:Envelope>

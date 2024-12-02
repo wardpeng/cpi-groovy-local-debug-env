@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?><EmpEmployment>
+  <EmpEmployment>
+    <assignmentClass>ST</assignmentClass>
+    <userId>40007105</userId>
+    <personIdExternal>96000206</personIdExternal>
+    <customString1/>
+    <lastName>Au-Yeung</lastName>
+    <middleName/>
+    <firstName>INT</firstName>
+    <thirdName>INT-D</thirdName>
+    <firstNameAlt1/>
+    <lastNameAlt1/>
+    <cust_legacyCodeString6>MCA0101</cust_legacyCodeString6>
+    <dateOfBirth>2024-02-28T00:00:00.000</dateOfBirth>
+    <cardType/>
+    <nationalId/>
+    <company>JC</company>
+    <startDate>2024-03-22T00:00:00.000</startDate>
+    <employeeClass>1030</employeeClass>
+    <employeeClassExternalCode>1</employeeClassExternalCode>
+    <customString14>STA</customString14>
+    <status>ACTIVE</status>
+    <seqNumbermpJob>1</seqNumbermpJob>
+    <startDateEmpJob>2024-03-22T00:00:00.000</startDateEmpJob>
+    <endDateEmpJob>9999-12-31T00:00:00.000</endDateEmpJob>
+    <cust_legacyCodeCostCenterNav>10012901</cust_legacyCodeCostCenterNav>
+    <jobCode>12000045</jobCode>
+    <cust_legacyCodeDepartmentNav>MCA</cust_legacyCodeDepartmentNav>
+    <holidayCalendarCode>HK_HC_NH</holidayCalendarCode>
+    <payGrade>ST08</payGrade>
+    <customString13>13</customString13>
+    <privatePhoneNumber/>
+    <homePhoneNumber/>
+    <code>HKG</code>
+    <externalName_en_GB>Hong Kong</externalName_en_GB>
+    <address1>Residential Address1</address1>
+    <address2>Residential Address2</address2>
+    <city>Kwun Tong</city>
+    <externalCodeStateNav>KLN</externalCodeStateNav>
+    <state>Kowloon</state>
+    <zipCode/>
+    <nameFODepartment>Mem Ops and Services</nameFODepartment>
+    <gender>M</gender>
+    <workscheduleCode>HK7D44</workscheduleCode>
+    <customString17/>
+    <secondaryExternalCode/>
+    <empJobStatus>ACTIVE</empJobStatus>
+    <empJobStatusExternalCode>A</empJobStatusExternalCode>
+    <activeUserIdPerPersonIdExternal>1</activeUserIdPerPersonIdExternal>
+    <inActiveUserIdPerPersonIdExternal>1</inActiveUserIdPerPersonIdExternal>
+    <userIdEmpEmploymentTermination/>
+    <userONB2Process/>
+    <processStatusONB2Process/>
+  </EmpEmployment>
+</EmpEmployment>

@@ -1,0 +1,24 @@
+{
+	"code":"0",
+	"data":{
+		"endRow":0,
+		"hasNextPage":false,
+		"hasPreviousPage":false,
+		"isFirstPage":true,
+		"isLastPage":true,
+		"list":[],
+		"navigateFirstPage":0,
+		"navigateLastPage":0,
+		"navigatePages":8,
+		"navigatepageNums":[],
+		"nextPage":0,
+		"pageNum":1,
+		"pageSize":20,
+		"pages":0,
+		"prePage":0,
+		"size":0,
+		"startRow":0,
+		"total":0
+	},
+	"msg":"ok"
+}

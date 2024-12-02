@@ -1,0 +1,27 @@
+<EmpJob>
+    <EmpJob>
+        <isFulltimeEmployee>false</isFulltimeEmployee>
+        <probationPeriodEndDate>2024-04-22T00:00:00.000</probationPeriodEndDate>
+        <seqNumber>1</seqNumber>
+        <employmentNav>
+            <EmpEmployment>
+                <endDate></endDate>
+            </EmpEmployment>
+        </employmentNav>
+        <customString13>14</customString13>
+        <userId>97001320</userId>
+        <EmpJobRelationships>
+            <relationshipType>999</relationshipType>
+            <relationshipTypeNav>
+                <PicklistOption>
+                    <externalCode>hr manager</externalCode>
+                </PicklistOption>
+            </relationshipTypeNav>
+            <userId>97001320</userId>
+            <relUserId>40003920</relUserId>
+        </EmpJobRelationships>
+        <customString14>STB</customString14>
+        <startDate>2022-01-01T00:00:00.000</startDate>
+        <customString16/>
+    </EmpJob>
+</EmpJob>
